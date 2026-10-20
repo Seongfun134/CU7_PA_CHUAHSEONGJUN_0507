@@ -1,0 +1,1201 @@
+subscriber_id,monthly_fee_rm,plan,tenure_months,contract,support_calls,payment_method,avg_hours_week,main_device,churned
+S0002,55.0,Premium,28,Yearly,3,Bank transfer,14.6,Phone,0
+S0003,60.2,Premium,19,Monthly,2,Bank transfer,23.2,Laptop,0
+S0004,22.4,Basic,4,Monthly,3,Bank transfer,11.1,Tablet,0
+S0005,40.0,Standard,13,Monthly,1,Cash voucher,15.9,Phone,1
+S0006,25.2,Basic,16,Monthly,2,E-wallet,4.9,Phone,1
+S0007,26.4,Basic,27,Yearly,1,Card,10.8,Phone,0
+S0008,29.3,Basic,23,6-month,2,Cash voucher,1.7,Phone,1
+S0009,59.0,Premium,30,Monthly,0,E-wallet,7.3,Laptop,0
+S0011,55.6,Premium,28,Monthly,2,Bank transfer,6.7,TV,1
+S0012,40.9,Standard,20,Yearly,2,Bank transfer,13.2,Laptop,0
+S0013,21.0,Basic,7,Monthly,3,Bank transfer,6.3,Phone,1
+S0014,25.3,Basic,17,Monthly,1,E-wallet,7.0,Phone,0
+S0016,28.3,Basic,12,Monthly,1,Card,14.4,Tablet,0
+S0017,39.3,Standard,7,6-month,1,Card,4.8,Phone,0
+S0019,39.6,Standard,6,Yearly,3,Bank transfer,5.2,Laptop,0
+S0020,40.9,Standard,10,6-month,1,Bank transfer,2.5,TV,1
+S0021,41.2,Standard,20,Monthly,1,E-wallet,2.5,Phone,0
+S0022,53.8,Premium,17,6-month,4,E-wallet,16.6,Phone,0
+S0023,23.3,Basic,15,Monthly,5,Cash voucher,2.9,Phone,1
+S0025,39.3,Standard,21,Monthly,5,Bank transfer,5.4,Phone,1
+S0026,28.9,Basic,40,6-month,1,Card,3.5,TV,0
+S0027,23.5,Basic,26,6-month,0,Card,1.6,Phone,0
+S0028,36.8,Standard,26,Monthly,2,Bank transfer,20.7,Laptop,0
+S0029,51.4,Premium,53,6-month,1,E-wallet,17.7,Laptop,0
+S0030,42.7,Standard,16,Monthly,1,E-wallet,7.7,TV,0
+S0031,38.5,Standard,7,Yearly,0,Bank transfer,11.2,Phone,0
+S0032,19.2,Basic,10,Yearly,0,E-wallet,2.9,Phone,0
+S0034,22.2,Basic,6,Yearly,0,E-wallet,4.5,Laptop,0
+S0035,39.9,Standard,37,Monthly,3,Card,3.0,TV,1
+S0036,55.9,Premium,9,Yearly,1,Card,17.3,TV,0
+S0037,56.0,Premium,2,Yearly,2,E-wallet,7.6,Phone,0
+S0038,43.5,Standard,23,Monthly,0,Cash voucher,9.6,TV,0
+S0039,39.2,Standard,3,Monthly,2,Card,3.8,Phone,1
+S0040,36.4,Standard,8,6-month,2,E-wallet,5.1,Phone,0
+S0041,40.7,Standard,26,Monthly,2,Card,10.3,Phone,0
+S0042,37.0,Standard,2,Yearly,2,Card,16.6,TV,0
+S0043,27.9,Basic,34,Yearly,2,Card,8.7,TV,0
+S0044,40.5,Standard,6,6-month,0,E-wallet,1.5,Phone,0
+S0045,40.0,Standard,11,Monthly,2,Card,5.2,TV,0
+S0048,42.4,Standard,12,Monthly,0,Bank transfer,7.3,Phone,0
+S0049,60.1,Premium,40,Yearly,1,Card,6.9,Phone,0
+S0050,21.4,Basic,29,Yearly,2,Card,1.9,Laptop,0
+S0052,27.9,Basic,45,6-month,2,Cash voucher,2.8,TV,0
+S0053,26.3,Basic,29,6-month,1,E-wallet,2.6,TV,0
+S0055,23.6,Basic,20,Monthly,1,Card,3.2,Laptop,0
+S0056,55.6,Premium,7,Monthly,1,Card,10.0,TV,1
+S0057,40.3,Standard,26,Monthly,0,E-wallet,9.8,Laptop,0
+S0059,28.7,Basic,23,Monthly,2,Cash voucher,2.4,Laptop,0
+S0060,22.3,Basic,14,Monthly,4,Cash voucher,11.5,Tablet,1
+S0061,23.3,Basic,6,Yearly,1,Card,11.4,Phone,0
+S0063,53.3,Premium,14,6-month,1,Bank transfer,22.6,Phone,0
+S0064,24.1,Basic,2,Yearly,1,Card,4.4,Phone,0
+S0065,25.7,Basic,2,6-month,1,E-wallet,5.7,Phone,0
+S0066,39.2,Standard,22,Monthly,1,Bank transfer,1.1,Phone,1
+S0068,41.6,Standard,7,Monthly,1,Cash voucher,2.7,Phone,1
+S0069,51.2,Premium,19,6-month,0,Card,6.8,Phone,0
+S0071,38.5,Standard,8,Monthly,3,E-wallet,4.3,Phone,1
+S0072,25.5,Basic,15,Monthly,3,E-wallet,12.3,TV,0
+S0073,22.9,Basic,15,Yearly,1,Bank transfer,11.3,Phone,0
+S0074,58.7,Premium,23,6-month,1,Cash voucher,14.0,Phone,0
+S0076,28.1,Basic,20,Monthly,0,E-wallet,4.7,TV,0
+S0077,45.7,Standard,8,Monthly,3,Card,7.1,Phone,1
+S0078,22.2,Basic,27,6-month,2,Card,6.3,TV,0
+S0079,58.8,Premium,39,Monthly,1,Card,10.0,TV,0
+S0081,23.2,Basic,16,Monthly,0,Bank transfer,4.2,TV,0
+S0082,52.6,Premium,15,6-month,2,Card,6.6,Phone,0
+S0083,25.7,Basic,72,Monthly,0,Card,5.8,Tablet,0
+S0084,41.5,Standard,2,Monthly,2,Bank transfer,12.9,Phone,1
+S0085,37.1,Standard,8,6-month,2,Bank transfer,6.9,Tablet,1
+S0086,22.8,Basic,7,Yearly,0,Card,6.1,TV,0
+S0087,22.5,Basic,2,6-month,1,E-wallet,6.9,Phone,1
+S0090,38.9,Standard,1,Yearly,0,Card,3.6,Phone,0
+S0091,23.0,Basic,7,Monthly,2,E-wallet,2.4,TV,0
+S0092,24.3,Basic,9,Monthly,1,Card,6.8,Phone,0
+S0093,22.6,Basic,11,6-month,2,Bank transfer,6.0,Phone,1
+S0095,33.5,Standard,6,6-month,3,E-wallet,10.6,Phone,1
+S0096,40.2,Standard,24,Monthly,0,E-wallet,2.5,TV,0
+S0098,41.1,Standard,16,Monthly,2,Card,9.0,Phone,0
+S0099,36.0,Standard,9,6-month,1,Bank transfer,14.7,Laptop,0
+S0100,37.7,Standard,29,6-month,1,Card,12.3,TV,0
+S0101,35.8,Standard,13,6-month,0,E-wallet,6.4,Laptop,0
+S0107,28.4,Basic,5,Monthly,4,Card,16.1,Tablet,1
+S0109,28.9,Basic,35,6-month,0,Bank transfer,14.1,TV,0
+S0110,25.7,Basic,12,Monthly,0,E-wallet,2.9,TV,0
+S0111,54.9,Premium,67,Monthly,0,Bank transfer,12.6,TV,0
+S0112,29.4,Basic,7,Monthly,2,Bank transfer,9.1,Laptop,0
+S0113,39.9,Standard,9,Monthly,1,Bank transfer,5.6,Phone,1
+S0114,40.1,Standard,16,6-month,0,Card,2.1,Phone,0
+S0115,40.2,Standard,13,Monthly,2,Card,12.9,Phone,0
+S0116,39.0,Standard,15,Monthly,1,Bank transfer,5.6,Tablet,0
+S0117,24.2,Basic,53,Monthly,4,E-wallet,8.7,TV,0
+S0119,25.8,Basic,20,6-month,0,Bank transfer,3.4,TV,0
+S0120,20.4,Basic,10,Monthly,2,Card,4.5,TV,0
+S0121,39.0,Standard,6,Monthly,1,Card,6.3,TV,1
+S0122,27.5,Basic,41,Yearly,1,Cash voucher,5.0,Laptop,0
+S0123,57.7,Premium,5,6-month,1,E-wallet,8.0,Laptop,0
+S0124,40.6,Standard,12,Yearly,0,Card,19.0,Phone,0
+S0125,41.6,Standard,7,Monthly,2,Card,10.1,Laptop,1
+S0126,53.0,Premium,18,Yearly,1,E-wallet,9.4,Phone,0
+S0127,22.6,Basic,12,Yearly,2,Card,7.9,TV,0
+S0131,25.6,Basic,11,Monthly,1,E-wallet,6.0,TV,1
+S0132,55.4,Premium,25,Monthly,1,E-wallet,5.6,Phone,0
+S0134,37.9,Standard,9,Monthly,1,Bank transfer,20.2,Phone,0
+S0135,59.1,Premium,11,6-month,0,Bank transfer,3.9,Phone,0
+S0137,45.2,Standard,12,6-month,1,Card,1.2,Phone,0
+S0138,40.8,Standard,7,6-month,1,Cash voucher,10.5,TV,0
+S0139,21.7,Basic,14,Monthly,2,Card,3.0,TV,0
+S0140,41.6,Standard,11,Monthly,1,Bank transfer,3.3,Phone,1
+S0141,23.1,Basic,55,6-month,1,E-wallet,3.7,TV,0
+S0142,35.3,Standard,16,Monthly,4,Bank transfer,10.1,TV,0
+S0143,42.4,Standard,29,Yearly,1,E-wallet,2.6,Phone,0
+S0144,25.1,Basic,13,6-month,0,Bank transfer,18.8,Phone,0
+S0145,41.2,Standard,14,Monthly,2,Card,6.4,Tablet,0
+S0146,28.4,Basic,21,Monthly,0,Bank transfer,9.0,Laptop,0
+S0147,22.4,Basic,58,Monthly,3,Card,11.8,Phone,0
+S0149,30.2,Basic,29,Yearly,2,Bank transfer,9.3,Phone,0
+S0150,52.2,Premium,30,6-month,1,Cash voucher,6.7,Laptop,0
+S0151,40.6,Standard,13,Monthly,4,Bank transfer,12.6,Phone,1
+S0152,25.6,Basic,16,Yearly,1,Card,1.6,Phone,0
+S0153,27.8,Basic,23,6-month,1,Cash voucher,3.0,Tablet,0
+S0154,37.9,Standard,32,Monthly,1,Card,5.1,Phone,0
+S0155,22.9,Basic,4,Monthly,1,Cash voucher,21.3,Tablet,0
+S0156,54.8,Premium,7,Yearly,1,E-wallet,4.2,TV,0
+S0157,36.1,Standard,14,6-month,4,Card,6.6,Phone,1
+S0158,58.2,Premium,37,Monthly,0,E-wallet,1.5,Phone,0
+S0159,22.3,Basic,15,6-month,0,Card,4.8,Laptop,0
+S0160,36.6,Standard,15,Monthly,4,Bank transfer,18.1,Laptop,1
+S0161,52.6,Premium,10,Yearly,0,Card,6.4,Tablet,0
+S0162,26.6,Basic,23,6-month,1,Bank transfer,5.5,TV,0
+S0163,42.0,Standard,26,6-month,1,Bank transfer,9.7,Tablet,0
+S0164,27.0,Basic,12,6-month,2,Cash voucher,6.1,TV,0
+S0165,41.6,Standard,7,Monthly,1,Card,20.1,Phone,1
+S0166,40.3,Standard,21,Monthly,1,E-wallet,9.4,Phone,0
+S0167,26.0,Basic,10,Monthly,4,E-wallet,4.4,TV,1
+S0168,46.1,Standard,72,Yearly,0,Bank transfer,9.0,Laptop,0
+S0169,25.6,Basic,5,Monthly,0,Card,4.1,Phone,1
+S0170,25.3,Basic,10,Yearly,1,Card,3.1,Phone,0
+S0171,39.8,Standard,38,Yearly,2,Bank transfer,11.5,Laptop,0
+S0172,45.3,Standard,38,6-month,0,Bank transfer,1.2,TV,0
+S0174,44.3,Standard,4,Yearly,2,Card,6.3,Phone,0
+S0175,27.0,Basic,15,Yearly,3,Cash voucher,5.3,Tablet,0
+S0176,41.1,Standard,13,Yearly,2,Card,7.6,TV,0
+S0177,61.8,Premium,14,Monthly,0,Cash voucher,8.9,Laptop,0
+S0178,37.9,Standard,7,Yearly,3,Cash voucher,3.9,Laptop,0
+S0179,28.2,Basic,27,6-month,2,Cash voucher,6.5,Phone,0
+S0180,24.3,Basic,18,Monthly,0,Card,3.1,Phone,0
+S0181,21.5,Basic,5,Monthly,3,Bank transfer,0.7,Phone,1
+S0182,26.2,Basic,30,Monthly,2,E-wallet,9.4,Phone,0
+S0183,38.9,Standard,14,Yearly,2,E-wallet,17.2,Tablet,0
+S0184,43.2,Standard,35,Monthly,1,Card,5.5,Laptop,0
+S0185,21.2,Basic,16,Monthly,1,Card,11.4,TV,0
+S0186,56.3,Premium,34,Yearly,2,E-wallet,6.0,Tablet,0
+S0188,55.7,Premium,12,6-month,0,E-wallet,7.4,Tablet,0
+S0189,22.3,Basic,36,Yearly,1,Bank transfer,13.5,Laptop,0
+S0190,43.7,Standard,6,Monthly,2,E-wallet,1.5,Phone,0
+S0191,25.9,Basic,1,Yearly,3,E-wallet,3.3,Tablet,1
+S0192,22.6,Basic,10,6-month,1,Bank transfer,7.9,Tablet,1
+S0194,51.8,Premium,14,6-month,2,Card,4.6,Phone,0
+S0195,25.5,Basic,38,Monthly,0,Cash voucher,1.2,Laptop,0
+S0196,38.1,Standard,13,Monthly,1,Card,6.6,Tablet,0
+S0198,50.1,Premium,1,Monthly,3,E-wallet,0.6,Phone,1
+S0199,40.0,Standard,13,Yearly,2,Bank transfer,12.0,Laptop,0
+S0200,41.9,Standard,13,Monthly,1,Bank transfer,8.2,TV,0
+S0202,21.7,Basic,36,Monthly,2,E-wallet,4.1,Laptop,0
+S0203,50.8,Premium,17,6-month,2,Bank transfer,4.2,Laptop,1
+S0204,42.0,Standard,12,Monthly,1,E-wallet,8.7,Phone,0
+S0205,21.3,Basic,1,6-month,2,Cash voucher,11.1,Laptop,0
+S0206,23.6,Basic,13,6-month,0,Card,6.6,Phone,0
+S0207,43.6,Standard,13,6-month,1,Card,5.5,TV,0
+S0209,25.2,Basic,25,Monthly,2,E-wallet,8.9,Phone,0
+S0210,27.1,Basic,21,Monthly,3,E-wallet,6.6,TV,0
+S0211,39.7,Standard,25,Monthly,0,Card,13.9,TV,0
+S0212,26.6,Basic,28,Yearly,0,Card,14.7,Phone,0
+S0213,39.0,Standard,8,6-month,1,Card,3.5,Tablet,0
+S0215,40.3,Standard,9,Monthly,1,Cash voucher,3.3,Phone,1
+S0216,41.0,Standard,2,6-month,1,Card,7.2,Phone,1
+S0217,39.3,Standard,7,Monthly,2,Cash voucher,1.7,TV,0
+S0218,49.2,Premium,21,Yearly,4,Card,6.4,Tablet,0
+S0219,40.6,Standard,4,Yearly,1,Cash voucher,12.7,Laptop,0
+S0220,38.9,Standard,2,6-month,1,Card,15.9,Phone,0
+S0221,41.6,Standard,8,Monthly,2,Bank transfer,2.2,Laptop,1
+S0222,27.3,Basic,11,Monthly,2,E-wallet,3.8,Laptop,0
+S0223,53.8,Premium,3,6-month,0,Bank transfer,5.5,Phone,1
+S0224,39.5,Standard,4,6-month,1,Bank transfer,7.8,Phone,0
+S0226,41.1,Standard,22,Monthly,4,E-wallet,2.3,Phone,1
+S0228,39.4,Standard,3,Monthly,0,E-wallet,13.8,Tablet,1
+S0229,23.2,Basic,25,Monthly,1,E-wallet,4.5,Phone,0
+S0230,25.4,Basic,12,6-month,1,Card,2.8,Laptop,0
+S0231,24.7,Basic,4,6-month,0,Card,8.8,Phone,0
+S0232,58.9,Premium,24,6-month,0,E-wallet,14.1,Phone,0
+S0233,44.6,Standard,13,6-month,1,E-wallet,9.1,Phone,0
+S0235,23.3,Basic,7,Monthly,1,E-wallet,6.1,Laptop,0
+S0236,31.4,Basic,41,Monthly,4,Cash voucher,2.4,Laptop,0
+S0237,54.2,Premium,5,Monthly,1,Bank transfer,4.0,TV,0
+S0238,19.9,Basic,14,6-month,0,Card,5.8,TV,0
+S0240,61.0,Premium,32,Monthly,0,Card,4.6,TV,0
+S0241,47.1,Standard,57,Yearly,1,Card,12.8,Laptop,0
+S0242,43.8,Standard,8,Yearly,1,E-wallet,2.7,Phone,0
+S0243,37.1,Standard,16,Yearly,3,Card,10.8,Phone,0
+S0244,40.5,Standard,4,Monthly,0,Card,5.8,Phone,1
+S0246,58.5,Premium,10,Monthly,0,Card,1.7,TV,0
+S0247,22.1,Basic,12,Yearly,0,E-wallet,8.5,Laptop,0
+S0248,40.8,Standard,15,Monthly,1,E-wallet,3.3,TV,0
+S0249,58.2,Premium,24,Yearly,3,Card,4.1,TV,0
+S0250,36.7,Standard,15,6-month,2,Cash voucher,6.1,Phone,0
+S0251,38.0,Standard,11,6-month,4,Cash voucher,2.0,Laptop,1
+S0254,24.0,Basic,19,6-month,0,Card,5.5,TV,0
+S0256,28.1,Basic,22,Monthly,0,Card,10.7,Laptop,0
+S0257,29.2,Basic,4,Monthly,0,Cash voucher,4.8,Laptop,1
+S0258,19.4,Basic,43,6-month,1,Bank transfer,11.4,TV,0
+S0259,27.7,Basic,7,Monthly,1,Card,1.9,TV,0
+S0260,27.4,Basic,1,Monthly,2,Card,14.0,Phone,1
+S0261,55.4,Premium,8,6-month,1,E-wallet,8.6,TV,0
+S0262,26.9,Basic,8,Monthly,1,E-wallet,2.2,Phone,0
+S0264,25.7,Basic,14,6-month,0,Bank transfer,3.4,Phone,0
+S0265,38.5,Standard,7,Monthly,0,Bank transfer,15.7,Laptop,1
+S0266,58.0,Premium,4,Yearly,3,E-wallet,3.3,Phone,0
+S0268,23.3,Basic,14,Yearly,2,Bank transfer,4.9,Phone,0
+S0269,23.7,Basic,41,Monthly,0,E-wallet,2.2,TV,0
+S0270,56.4,Premium,9,Monthly,0,E-wallet,4.1,Phone,0
+S0271,40.0,Standard,28,Yearly,5,Card,5.4,TV,1
+S0272,51.7,Premium,22,Monthly,0,E-wallet,6.7,Laptop,0
+S0273,41.3,Standard,9,Yearly,1,Card,2.8,Tablet,0
+S0274,40.1,Standard,29,6-month,0,E-wallet,6.3,Laptop,0
+S0275,35.7,Standard,37,Yearly,1,Card,7.6,Laptop,0
+S0278,36.5,Standard,16,Yearly,0,Card,5.7,Laptop,0
+S0279,41.9,Standard,9,Monthly,0,E-wallet,9.2,Laptop,0
+S0280,21.8,Basic,32,Monthly,0,Cash voucher,4.7,Phone,0
+S0281,24.5,Basic,24,Monthly,1,Card,5.9,TV,0
+S0282,40.5,Standard,1,Yearly,1,Bank transfer,3.7,TV,0
+S0283,37.4,Standard,17,Monthly,0,Cash voucher,20.2,Phone,0
+S0285,28.9,Basic,28,Monthly,1,Card,9.6,Phone,0
+S0286,41.4,Standard,24,Monthly,1,Bank transfer,5.7,Phone,0
+S0287,51.6,Premium,11,6-month,2,Cash voucher,2.4,Phone,0
+S0288,25.1,Basic,10,6-month,1,Card,7.4,Tablet,1
+S0290,25.0,Basic,11,Monthly,2,Bank transfer,6.1,Phone,1
+S0291,57.1,Premium,11,Monthly,1,E-wallet,14.5,Tablet,0
+S0292,43.6,Standard,30,Monthly,1,Card,0.3,Phone,0
+S0293,24.4,Basic,18,Monthly,0,Card,3.2,Phone,0
+S0294,40.3,Standard,24,6-month,3,Card,2.4,Tablet,1
+S0296,40.7,Standard,14,6-month,1,Bank transfer,13.8,TV,0
+S0297,21.0,Basic,21,Monthly,1,E-wallet,14.9,Tablet,0
+S0298,23.0,Basic,10,6-month,1,Card,8.7,TV,0
+S0299,58.6,Premium,2,6-month,0,Card,6.6,Phone,0
+S0300,43.0,Standard,66,6-month,1,E-wallet,5.0,Laptop,0
+S0301,27.0,Basic,13,Yearly,1,Bank transfer,7.5,Phone,0
+S0302,25.8,Basic,22,Monthly,2,E-wallet,8.9,Phone,0
+S0303,53.8,Premium,11,6-month,1,Card,9.8,Phone,0
+S0304,44.3,Standard,12,Yearly,0,Card,2.4,Phone,0
+S0305,21.6,Basic,11,Yearly,0,E-wallet,1.6,TV,0
+S0306,24.6,Basic,42,Monthly,1,E-wallet,4.8,Phone,0
+S0307,23.9,Basic,34,6-month,2,Card,5.8,Tablet,0
+S0308,41.1,Standard,42,6-month,1,Card,22.4,Phone,0
+S0310,23.3,Basic,22,6-month,3,E-wallet,0.6,Laptop,0
+S0311,34.8,Standard,21,Monthly,1,Bank transfer,1.2,Laptop,1
+S0312,51.2,Premium,10,6-month,3,E-wallet,4.8,Phone,1
+S0313,24.0,Basic,13,6-month,1,Card,6.4,Tablet,0
+S0314,26.9,Basic,5,6-month,3,Bank transfer,12.7,Phone,0
+S0316,37.7,Standard,9,6-month,0,Card,6.0,Phone,0
+S0317,25.6,Basic,18,6-month,2,Bank transfer,1.7,Phone,1
+S0318,34.4,Standard,2,Yearly,0,Card,9.1,TV,0
+S0319,27.7,Basic,18,6-month,0,Bank transfer,10.2,TV,0
+S0320,56.9,Premium,32,Monthly,1,E-wallet,4.4,Laptop,0
+S0321,56.3,Premium,3,Monthly,1,Bank transfer,13.8,Phone,1
+S0322,37.0,Standard,11,6-month,0,Card,12.4,Phone,0
+S0323,54.5,Premium,16,Monthly,1,Card,14.0,TV,0
+S0324,57.4,Premium,31,6-month,0,Card,5.5,Phone,0
+S0325,36.9,Standard,17,Yearly,1,E-wallet,10.3,Phone,0
+S0326,25.3,Basic,8,Monthly,1,Card,12.7,TV,0
+S0327,16.5,Basic,50,Yearly,0,Bank transfer,4.0,TV,0
+S0328,28.6,Basic,13,6-month,3,Bank transfer,9.0,Laptop,1
+S0329,43.2,Standard,8,Monthly,0,Bank transfer,3.6,Laptop,0
+S0330,32.4,Basic,22,Yearly,2,Card,12.6,Laptop,0
+S0331,37.7,Standard,16,6-month,0,Card,10.8,Phone,0
+S0332,53.9,Premium,14,Monthly,0,E-wallet,5.7,TV,0
+S0333,25.9,Basic,42,Yearly,2,E-wallet,7.0,Tablet,0
+S0334,25.2,Basic,26,Monthly,1,Bank transfer,6.5,TV,0
+S0335,36.7,Standard,21,Monthly,3,E-wallet,9.2,Phone,1
+S0337,39.3,Standard,5,Monthly,1,Card,1.9,Phone,1
+S0339,27.8,Basic,5,Yearly,3,Bank transfer,2.2,Phone,0
+S0340,52.3,Premium,10,6-month,1,Cash voucher,28.8,Phone,0
+S0341,27.3,Basic,39,Monthly,4,Card,8.8,TV,1
+S0342,50.7,Premium,18,Yearly,0,E-wallet,18.1,TV,0
+S0343,38.4,Standard,46,Yearly,0,Card,4.8,Phone,0
+S0344,21.6,Basic,16,Monthly,1,Card,2.1,Laptop,1
+S0345,19.1,Basic,41,Monthly,0,Card,12.4,Laptop,0
+S0346,38.8,Standard,16,6-month,1,E-wallet,6.2,TV,0
+S0347,29.9,Basic,20,6-month,4,E-wallet,19.8,Phone,0
+S0348,58.1,Premium,8,Yearly,0,E-wallet,9.8,Phone,0
+S0351,25.7,Basic,36,Monthly,1,E-wallet,16.2,Tablet,0
+S0352,53.3,Premium,17,Monthly,1,Card,14.4,Phone,0
+S0354,55.0,Premium,28,6-month,1,E-wallet,19.3,TV,0
+S0357,59.6,Premium,6,6-month,2,Card,24.1,TV,0
+S0358,43.8,Standard,47,Monthly,2,Bank transfer,10.4,Phone,0
+S0359,27.8,Basic,21,6-month,0,Card,11.8,Phone,0
+S0360,21.8,Basic,35,Monthly,0,E-wallet,2.6,Tablet,0
+S0361,25.3,Basic,6,Yearly,1,Cash voucher,12.2,Phone,0
+S0362,33.2,Basic,5,Yearly,1,E-wallet,13.0,TV,0
+S0363,53.3,Premium,29,Monthly,3,E-wallet,3.2,Phone,1
+S0365,20.9,Basic,23,Monthly,1,E-wallet,1.7,Phone,0
+S0366,44.8,Standard,62,Yearly,2,Cash voucher,6.2,Tablet,0
+S0367,24.3,Basic,5,Monthly,1,Bank transfer,6.8,Phone,1
+S0368,44.5,Standard,35,6-month,1,E-wallet,5.1,Phone,0
+S0369,37.2,Standard,9,6-month,3,E-wallet,8.6,Phone,0
+S0370,21.3,Basic,2,Yearly,1,Cash voucher,4.0,TV,0
+S0371,24.0,Basic,18,Monthly,2,Bank transfer,8.1,TV,0
+S0372,56.2,Premium,14,Yearly,0,E-wallet,3.3,Phone,0
+S0373,28.7,Basic,19,Monthly,2,E-wallet,6.7,Tablet,0
+S0374,26.7,Basic,17,Monthly,1,E-wallet,7.0,Phone,0
+S0375,17.7,Basic,20,Monthly,2,Card,5.0,TV,0
+S0377,37.0,Standard,25,Monthly,0,Card,7.2,Laptop,0
+S0378,40.5,Standard,26,Monthly,1,E-wallet,4.8,Laptop,0
+S0379,48.4,Premium,34,Monthly,2,E-wallet,6.7,Phone,0
+S0380,38.2,Standard,15,Yearly,1,Card,12.0,Laptop,0
+S0382,38.6,Standard,1,6-month,0,Cash voucher,3.3,Phone,1
+S0383,42.7,Standard,3,Monthly,1,Card,1.9,Laptop,0
+S0384,26.1,Basic,12,Monthly,1,E-wallet,5.9,Phone,1
+S0385,51.8,Premium,19,6-month,1,Bank transfer,3.2,Phone,0
+S0386,55.9,Premium,8,Monthly,1,E-wallet,12.3,TV,0
+S0387,40.8,Standard,5,6-month,1,Bank transfer,6.3,Laptop,0
+S0388,42.6,Standard,4,6-month,1,Card,7.5,Phone,0
+S0389,39.6,Standard,22,6-month,0,Bank transfer,8.8,TV,0
+S0391,25.8,Basic,8,Monthly,3,Card,2.4,TV,1
+S0393,26.7,Basic,12,Monthly,2,Bank transfer,7.0,Phone,0
+S0394,26.2,Basic,6,Yearly,2,Bank transfer,11.0,Tablet,0
+S0395,21.0,Basic,28,Yearly,0,Cash voucher,1.8,Laptop,0
+S0397,57.9,Premium,7,Monthly,1,E-wallet,5.4,TV,1
+S0398,36.9,Standard,11,Monthly,1,Card,7.5,Laptop,0
+S0399,54.9,Premium,10,6-month,1,Cash voucher,25.2,Laptop,0
+S0400,26.5,Basic,34,Yearly,4,E-wallet,2.2,Phone,0
+S0401,24.1,Basic,7,Yearly,2,Card,7.1,Tablet,0
+S0402,51.7,Premium,23,Yearly,1,E-wallet,10.0,Phone,0
+S0407,28.4,Basic,31,Monthly,2,E-wallet,8.4,Phone,0
+S0409,41.4,Standard,14,Monthly,1,Card,7.6,TV,0
+S0410,53.8,Premium,30,6-month,2,Card,10.9,Phone,0
+S0411,21.5,Basic,22,Monthly,1,Card,2.3,Phone,0
+S0412,56.9,Premium,22,Monthly,0,E-wallet,18.0,Phone,0
+S0413,23.9,Basic,30,6-month,0,Bank transfer,17.4,Phone,0
+S0414,37.7,Standard,12,6-month,0,Cash voucher,5.2,Phone,1
+S0415,43.8,Standard,25,Monthly,1,Bank transfer,13.0,Laptop,0
+S0416,39.2,Standard,17,Monthly,1,Cash voucher,1.6,Laptop,1
+S0417,59.8,Premium,13,6-month,0,E-wallet,7.6,TV,0
+S0418,47.0,Premium,25,Yearly,0,Bank transfer,3.2,Phone,0
+S0419,40.0,Standard,19,Monthly,0,Card,3.7,TV,0
+S0420,26.2,Basic,9,6-month,0,E-wallet,2.5,Laptop,0
+S0421,27.8,Basic,16,Monthly,2,Card,10.2,Phone,0
+S0422,24.2,Basic,24,Monthly,2,Card,8.7,Phone,0
+S0423,58.6,Premium,44,Yearly,1,E-wallet,5.2,TV,0
+S0424,57.6,Premium,27,Yearly,2,Bank transfer,13.6,Phone,0
+S0425,37.9,Standard,3,Monthly,0,Card,10.2,Phone,1
+S0426,36.1,Standard,10,6-month,2,E-wallet,4.1,Tablet,1
+S0427,23.3,Basic,33,Monthly,4,E-wallet,1.3,TV,1
+S0428,47.4,Premium,7,Monthly,0,E-wallet,9.2,Laptop,0
+S0429,42.0,Standard,37,Monthly,1,Bank transfer,13.6,Tablet,1
+S0430,56.3,Premium,21,Monthly,0,Card,23.0,Laptop,0
+S0431,22.3,Basic,46,Monthly,2,E-wallet,12.2,Tablet,0
+S0432,51.9,Premium,4,Monthly,1,Cash voucher,1.7,Phone,1
+S0433,38.6,Standard,17,Monthly,1,Card,24.3,Tablet,0
+S0434,55.5,Premium,21,Monthly,2,E-wallet,9.2,Tablet,0
+S0436,40.1,Standard,10,Yearly,2,Card,6.6,TV,0
+S0438,54.5,Premium,15,Monthly,1,Bank transfer,4.1,TV,0
+S0439,47.1,Premium,20,Yearly,2,Card,8.4,TV,0
+S0440,34.2,Standard,15,Monthly,4,Card,8.1,Laptop,1
+S0441,57.9,Premium,51,Monthly,0,Card,7.0,Phone,0
+S0442,20.2,Basic,5,Yearly,1,Cash voucher,6.1,Phone,0
+S0443,38.6,Standard,27,Yearly,2,Card,4.9,Phone,0
+S0445,27.3,Basic,11,Yearly,0,Card,9.7,Phone,0
+S0446,37.3,Standard,3,6-month,0,E-wallet,3.5,Laptop,0
+S0447,24.0,Basic,7,6-month,0,Card,13.7,TV,0
+S0448,27.7,Basic,26,Yearly,2,E-wallet,7.9,Tablet,0
+S0450,22.3,Basic,43,Yearly,1,E-wallet,10.3,TV,0
+S0451,23.4,Basic,23,Yearly,2,E-wallet,4.5,TV,0
+S0452,33.3,Standard,6,Monthly,0,Bank transfer,10.5,Phone,0
+S0454,52.8,Premium,1,6-month,1,Card,9.4,TV,0
+S0455,41.8,Standard,14,Monthly,2,Cash voucher,6.7,Phone,1
+S0456,37.2,Standard,17,Monthly,2,E-wallet,1.2,TV,0
+S0457,35.8,Standard,23,Monthly,0,E-wallet,4.6,Phone,0
+S0458,27.5,Basic,28,Yearly,0,E-wallet,3.3,TV,0
+S0459,42.7,Standard,58,Yearly,0,E-wallet,3.4,Phone,0
+S0462,37.6,Standard,35,Yearly,2,E-wallet,2.8,Phone,0
+S0463,40.2,Standard,38,Yearly,0,Card,5.1,Phone,0
+S0464,32.7,Standard,11,Monthly,0,Bank transfer,8.1,TV,0
+S0465,24.1,Basic,17,6-month,2,Cash voucher,9.5,Phone,1
+S0466,58.2,Premium,7,Monthly,0,Card,10.6,Laptop,1
+S0467,22.4,Basic,18,Monthly,2,Card,11.5,TV,0
+S0468,39.1,Standard,46,Yearly,0,E-wallet,3.2,Laptop,0
+S0469,56.7,Premium,1,Monthly,1,Card,12.2,Phone,1
+S0470,37.2,Standard,2,Monthly,0,Card,9.6,Phone,1
+S0471,37.3,Standard,3,Monthly,1,Card,16.6,Laptop,1
+S0473,33.1,Basic,32,Monthly,4,E-wallet,7.8,Phone,0
+S0474,40.0,Standard,15,Monthly,0,Bank transfer,1.2,Phone,0
+S0475,40.4,Standard,10,Monthly,3,Card,10.4,TV,1
+S0476,22.5,Basic,23,Monthly,0,Cash voucher,18.2,Laptop,0
+S0477,39.1,Standard,23,6-month,1,Bank transfer,2.9,Laptop,0
+S0478,54.3,Premium,6,Monthly,2,Bank transfer,8.4,TV,1
+S0480,37.7,Standard,12,Yearly,0,Card,6.7,Phone,0
+S0481,42.1,Standard,4,Monthly,2,Bank transfer,13.2,Laptop,1
+S0482,41.1,Standard,27,Monthly,2,E-wallet,3.4,Laptop,0
+S0485,30.0,Basic,7,Monthly,2,E-wallet,10.6,Phone,1
+S0486,25.8,Basic,24,6-month,3,Cash voucher,3.6,Phone,0
+S0487,39.1,Standard,4,Monthly,1,Cash voucher,2.5,Phone,0
+S0488,27.5,Basic,12,6-month,0,E-wallet,2.8,Laptop,0
+S0489,35.2,Standard,25,Yearly,1,Card,5.5,Phone,0
+S0490,58.7,Premium,5,Monthly,1,E-wallet,10.0,Laptop,0
+S0491,40.9,Standard,12,Monthly,0,Card,12.9,Phone,0
+S0492,52.8,Premium,18,6-month,0,Cash voucher,8.0,Phone,0
+S0493,39.8,Standard,25,Yearly,1,Bank transfer,5.4,TV,0
+S0494,24.2,Basic,13,6-month,3,Card,13.0,Laptop,0
+S0495,26.9,Basic,24,Monthly,0,Card,11.5,Laptop,0
+S0497,23.8,Basic,17,Yearly,1,E-wallet,3.7,Tablet,0
+S0498,29.9,Basic,21,Monthly,1,Bank transfer,3.5,TV,0
+S0499,59.1,Premium,11,Monthly,2,Card,11.1,TV,0
+S0500,56.1,Premium,5,Monthly,0,Bank transfer,9.0,Laptop,0
+S0501,22.4,Basic,16,6-month,0,Cash voucher,8.9,Tablet,1
+S0502,40.0,Standard,12,Monthly,2,Bank transfer,4.4,Laptop,0
+S0503,42.0,Standard,11,Monthly,1,Bank transfer,4.6,Phone,0
+S0504,33.0,Standard,28,Monthly,2,E-wallet,3.1,Phone,1
+S0505,46.5,Premium,6,Yearly,1,Cash voucher,7.5,Laptop,0
+S0506,24.1,Basic,33,Monthly,0,Card,8.1,Phone,0
+S0507,27.5,Basic,7,Monthly,2,E-wallet,13.1,Phone,1
+S0508,23.3,Basic,58,Monthly,2,Bank transfer,17.4,Tablet,0
+S0509,27.1,Basic,5,Monthly,0,E-wallet,4.7,Phone,0
+S0510,51.1,Premium,10,Yearly,2,E-wallet,6.1,TV,0
+S0511,45.4,Standard,5,6-month,1,Cash voucher,5.5,TV,0
+S0512,30.8,Basic,37,Monthly,1,E-wallet,8.5,TV,0
+S0513,46.8,Premium,13,Yearly,1,Card,6.5,Phone,0
+S0514,52.9,Premium,19,Yearly,1,Cash voucher,16.7,Phone,0
+S0515,25.8,Basic,6,Monthly,0,Card,3.8,TV,0
+S0517,23.1,Basic,10,Yearly,1,Card,4.4,Tablet,0
+S0518,24.4,Basic,10,Monthly,1,Card,4.9,Phone,1
+S0519,22.9,Basic,36,Monthly,0,Cash voucher,7.6,Laptop,1
+S0520,20.6,Basic,41,6-month,0,Card,7.6,Laptop,0
+S0521,56.0,Premium,23,Monthly,0,Card,7.1,Phone,0
+S0522,26.5,Basic,27,6-month,3,Bank transfer,5.4,Phone,0
+S0523,20.9,Basic,22,Monthly,1,E-wallet,4.3,Laptop,1
+S0525,57.8,Premium,16,Monthly,1,Card,4.3,Phone,0
+S0526,56.9,Premium,3,Yearly,2,E-wallet,9.3,TV,0
+S0527,53.6,Premium,25,6-month,1,Cash voucher,6.8,TV,1
+S0528,27.5,Basic,21,Yearly,1,E-wallet,1.0,TV,0
+S0529,42.8,Standard,16,Monthly,1,Cash voucher,13.5,Phone,0
+S0533,42.8,Standard,35,Monthly,0,Card,8.2,TV,0
+S0535,25.4,Basic,3,Monthly,3,Cash voucher,2.6,Laptop,1
+S0536,42.5,Standard,36,Yearly,0,E-wallet,5.1,Laptop,0
+S0537,58.1,Premium,15,Monthly,2,Bank transfer,13.5,Tablet,0
+S0538,25.2,Basic,24,Yearly,1,E-wallet,9.2,TV,0
+S0539,52.5,Premium,17,Monthly,5,Bank transfer,21.6,TV,1
+S0540,21.1,Basic,22,6-month,1,Bank transfer,4.4,Tablet,0
+S0541,52.7,Premium,20,Monthly,1,Cash voucher,3.5,Tablet,1
+S0542,41.3,Standard,15,Yearly,1,Cash voucher,7.1,Laptop,0
+S0543,53.6,Premium,7,6-month,2,E-wallet,7.1,Phone,0
+S0544,60.3,Premium,13,Monthly,2,E-wallet,3.5,TV,0
+S0547,53.7,Premium,4,Monthly,1,Bank transfer,10.9,Phone,0
+S0548,55.3,Premium,43,Monthly,4,Cash voucher,6.0,Phone,1
+S0550,32.6,Basic,15,Yearly,1,Cash voucher,8.6,Phone,0
+S0551,34.3,Standard,11,Monthly,3,Card,2.9,TV,1
+S0552,52.8,Premium,7,Monthly,1,Bank transfer,4.2,Laptop,0
+S0554,26.5,Basic,19,Yearly,1,Bank transfer,2.8,Phone,0
+S0555,24.8,Basic,8,Monthly,0,Card,17.5,Tablet,0
+S0556,39.7,Standard,7,Monthly,2,Bank transfer,9.8,Laptop,1
+S0559,58.3,Premium,22,Monthly,1,Card,7.7,TV,0
+S0560,42.5,Standard,27,Monthly,2,Cash voucher,16.6,Phone,0
+S0561,21.5,Basic,8,Monthly,2,E-wallet,10.3,Phone,1
+S0562,18.4,Basic,21,Monthly,2,Card,7.7,Phone,1
+S0563,52.4,Premium,18,Monthly,2,E-wallet,11.7,TV,0
+S0564,23.5,Basic,35,Monthly,0,Cash voucher,1.9,Phone,0
+S0565,39.8,Standard,16,Monthly,3,Cash voucher,3.8,Laptop,1
+S0567,30.5,Basic,13,Monthly,4,Card,3.4,Phone,1
+S0568,25.1,Basic,7,Yearly,2,E-wallet,1.7,Phone,0
+S0570,41.5,Standard,8,Monthly,2,E-wallet,1.3,TV,1
+S0571,26.1,Basic,6,Monthly,1,Cash voucher,4.6,TV,0
+S0572,24.3,Basic,15,Monthly,0,Card,4.9,TV,0
+S0573,20.6,Basic,7,6-month,0,Cash voucher,17.1,Phone,0
+S0574,44.5,Standard,17,Monthly,1,Card,8.5,Phone,1
+S0575,20.9,Basic,7,Yearly,0,Card,13.4,Laptop,0
+S0576,39.7,Standard,36,Monthly,2,Bank transfer,4.1,Tablet,0
+S0578,39.0,Standard,10,Monthly,1,Card,6.7,Phone,1
+S0580,24.9,Basic,11,Monthly,3,E-wallet,19.4,Phone,1
+S0581,25.0,Basic,16,Monthly,2,Bank transfer,5.9,Laptop,0
+S0582,21.4,Basic,14,Monthly,1,E-wallet,4.9,Laptop,1
+S0583,51.4,Premium,13,6-month,2,Cash voucher,7.2,Phone,0
+S0585,21.6,Basic,14,Monthly,1,E-wallet,8.0,Phone,0
+S0586,27.8,Basic,26,Monthly,1,E-wallet,17.3,Phone,0
+S0589,27.1,Basic,11,6-month,2,Card,4.0,Phone,0
+S0590,22.7,Basic,9,Monthly,1,E-wallet,4.9,TV,0
+S0591,28.9,Basic,8,6-month,1,Card,4.0,Phone,0
+S0592,43.8,Standard,16,6-month,2,E-wallet,3.2,Phone,1
+S0593,26.1,Basic,25,Monthly,3,Card,16.3,Phone,1
+S0594,25.7,Basic,20,Yearly,3,E-wallet,6.4,Phone,0
+S0596,27.6,Basic,20,Monthly,1,Bank transfer,3.9,Phone,1
+S0597,25.3,Basic,11,Yearly,1,E-wallet,3.9,Phone,0
+S0598,22.9,Basic,11,Yearly,1,Card,7.4,Phone,0
+S0599,44.0,Standard,4,Monthly,1,Card,3.2,TV,1
+S0600,52.5,Premium,9,Yearly,2,Cash voucher,5.8,Laptop,0
+S0601,25.8,Basic,10,Monthly,2,Card,2.4,Phone,1
+S0602,27.5,Basic,5,Yearly,1,Card,8.6,Laptop,0
+S0603,54.3,Premium,18,Yearly,1,Card,12.0,Laptop,0
+S0604,24.9,Basic,14,6-month,1,Card,15.4,Phone,0
+S0605,31.8,Standard,11,Yearly,0,E-wallet,6.1,Phone,0
+S0606,27.8,Basic,18,6-month,2,E-wallet,13.3,Phone,0
+S0610,39.2,Standard,14,Monthly,0,Card,10.5,Laptop,0
+S0612,38.7,Standard,9,Monthly,1,Card,4.8,TV,0
+S0613,53.6,Premium,32,6-month,0,E-wallet,6.3,Tablet,0
+S0614,37.6,Standard,7,Monthly,1,Bank transfer,16.6,Phone,0
+S0615,43.5,Standard,3,6-month,1,Cash voucher,1.6,Laptop,0
+S0616,27.4,Basic,3,Monthly,3,Cash voucher,16.4,Laptop,1
+S0617,55.1,Premium,3,6-month,2,E-wallet,4.8,TV,1
+S0618,19.7,Basic,14,Monthly,1,Bank transfer,6.6,TV,0
+S0619,23.1,Basic,7,Monthly,0,Cash voucher,16.9,Phone,1
+S0621,44.0,Standard,6,Monthly,1,Card,3.8,Laptop,0
+S0623,26.3,Basic,10,Monthly,1,Bank transfer,7.2,TV,0
+S0624,39.3,Standard,20,Monthly,0,E-wallet,15.0,Phone,0
+S0626,58.2,Premium,9,Monthly,1,Card,14.4,Phone,0
+S0628,23.3,Basic,1,Monthly,1,Bank transfer,4.3,Laptop,0
+S0629,61.9,Premium,7,Monthly,1,E-wallet,36.1,Phone,0
+S0630,26.1,Basic,24,6-month,1,Card,3.1,Phone,0
+S0631,25.5,Basic,5,Yearly,1,Card,3.1,Phone,0
+S0632,23.5,Basic,12,Monthly,2,Card,5.8,Phone,1
+S0633,40.0,Standard,27,6-month,2,E-wallet,7.3,Phone,0
+S0634,23.5,Basic,14,Monthly,1,Bank transfer,6.3,TV,0
+S0635,56.7,Premium,14,Monthly,0,Bank transfer,4.2,TV,0
+S0636,23.5,Basic,38,6-month,1,Bank transfer,3.5,Phone,0
+S0637,27.5,Basic,4,Yearly,0,Card,7.4,Phone,0
+S0638,39.1,Standard,4,Yearly,1,Card,5.0,Phone,0
+S0640,52.4,Premium,16,Monthly,1,Cash voucher,15.9,TV,0
+S0642,50.2,Premium,10,Monthly,0,E-wallet,3.3,TV,0
+S0643,41.5,Standard,17,Monthly,1,Card,8.4,Laptop,1
+S0644,54.6,Premium,21,Yearly,1,E-wallet,7.9,TV,0
+S0645,37.4,Standard,25,Yearly,2,E-wallet,6.7,Tablet,0
+S0647,28.4,Basic,1,Monthly,1,Card,6.4,Laptop,1
+S0648,53.9,Premium,7,Yearly,1,Card,3.7,Laptop,0
+S0650,60.5,Premium,11,6-month,4,Cash voucher,4.7,TV,1
+S0651,23.8,Basic,39,6-month,3,Bank transfer,10.5,Phone,0
+S0652,25.6,Basic,27,Yearly,0,Card,3.2,Phone,0
+S0653,35.6,Standard,7,Monthly,0,E-wallet,5.6,TV,0
+S0655,21.9,Basic,23,Monthly,2,E-wallet,30.6,Laptop,0
+S0656,56.5,Premium,20,Monthly,0,Card,1.9,Phone,0
+S0657,26.6,Basic,10,6-month,1,Cash voucher,4.4,TV,0
+S0658,57.0,Premium,24,Monthly,1,Bank transfer,3.4,TV,1
+S0661,39.5,Standard,10,Yearly,0,E-wallet,3.9,Laptop,0
+S0662,56.9,Premium,22,Monthly,0,Bank transfer,6.4,TV,0
+S0663,28.9,Basic,9,Monthly,1,E-wallet,7.2,Phone,0
+S0665,36.2,Standard,14,Monthly,1,Card,3.0,Phone,0
+S0666,40.3,Standard,11,6-month,0,Bank transfer,1.9,Laptop,0
+S0670,38.1,Standard,14,Monthly,0,E-wallet,3.7,Phone,0
+S0672,37.6,Standard,1,6-month,1,Bank transfer,3.0,Phone,0
+S0674,25.8,Basic,5,Monthly,0,Bank transfer,10.5,Laptop,0
+S0675,42.8,Standard,28,Monthly,2,Cash voucher,7.6,TV,0
+S0676,49.7,Premium,9,Monthly,2,Bank transfer,5.7,TV,0
+S0677,42.2,Standard,19,Monthly,1,E-wallet,10.7,Phone,0
+S0678,37.7,Standard,35,Monthly,1,E-wallet,3.3,Phone,0
+S0679,39.4,Standard,1,6-month,0,Card,5.1,Phone,1
+S0680,23.8,Basic,7,Yearly,1,Bank transfer,5.7,Tablet,0
+S0682,37.4,Standard,11,Monthly,1,Card,3.7,Tablet,0
+S0684,24.6,Basic,25,Monthly,2,E-wallet,14.3,TV,0
+S0685,27.0,Basic,17,Yearly,1,Card,5.5,Phone,0
+S0686,38.4,Standard,12,Yearly,1,Card,14.5,TV,0
+S0687,56.9,Premium,39,Monthly,2,Card,16.5,TV,0
+S0688,35.8,Standard,14,Monthly,0,E-wallet,0.9,Tablet,0
+S0689,22.8,Basic,52,Monthly,2,Card,4.0,Laptop,0
+S0690,19.2,Basic,43,Monthly,1,Card,6.6,Tablet,0
+S0691,35.4,Standard,22,Monthly,2,E-wallet,8.3,Phone,1
+S0692,37.3,Standard,14,Monthly,2,Card,1.0,Laptop,0
+S0693,51.5,Premium,12,6-month,1,E-wallet,19.6,TV,0
+S0694,25.5,Basic,15,Monthly,0,Cash voucher,7.4,Tablet,0
+S0695,23.6,Basic,5,6-month,1,Bank transfer,8.4,Tablet,0
+S0696,42.5,Standard,5,6-month,1,E-wallet,11.0,Laptop,0
+S0697,38.5,Standard,11,6-month,5,E-wallet,6.8,Phone,1
+S0698,41.8,Standard,17,Monthly,2,Bank transfer,14.7,Laptop,0
+S0700,45.7,Standard,27,Monthly,3,Card,4.1,Phone,1
+S0701,31.1,Basic,11,Yearly,1,E-wallet,8.3,Tablet,0
+S0702,35.7,Standard,11,Monthly,1,Cash voucher,2.5,Laptop,1
+S0703,25.8,Basic,8,Monthly,3,Card,5.5,Laptop,1
+S0704,24.3,Basic,24,Monthly,2,Bank transfer,13.7,Phone,0
+S0705,37.3,Standard,6,6-month,2,Bank transfer,1.0,Laptop,1
+S0707,22.6,Basic,52,Monthly,3,E-wallet,6.9,TV,0
+S0708,38.3,Standard,1,6-month,3,Bank transfer,23.5,Phone,1
+S0709,39.0,Standard,15,Monthly,2,Card,3.2,Laptop,0
+S0710,38.6,Standard,23,6-month,1,Card,1.0,Phone,0
+S0711,25.9,Basic,7,6-month,1,Cash voucher,9.2,TV,0
+S0712,25.5,Basic,16,Yearly,3,Bank transfer,2.0,TV,0
+S0713,18.7,Basic,7,Monthly,1,Bank transfer,9.6,Laptop,0
+S0715,37.2,Standard,1,Yearly,2,E-wallet,14.3,TV,1
+S0716,23.7,Basic,40,6-month,0,Bank transfer,5.0,Phone,0
+S0717,25.9,Basic,15,Monthly,1,Card,6.4,Phone,0
+S0718,23.6,Basic,20,6-month,3,Card,0.7,TV,0
+S0719,24.0,Basic,37,6-month,0,Cash voucher,2.5,TV,0
+S0720,56.4,Premium,17,Monthly,2,Cash voucher,2.8,Phone,0
+S0722,24.1,Basic,2,Monthly,0,E-wallet,4.4,TV,0
+S0723,58.8,Premium,35,6-month,1,E-wallet,19.1,Laptop,0
+S0724,53.9,Premium,6,6-month,1,Card,2.5,Phone,0
+S0726,24.3,Basic,10,Monthly,1,Cash voucher,6.1,TV,0
+S0727,26.7,Basic,28,Yearly,3,Bank transfer,11.7,Laptop,0
+S0728,39.9,Standard,13,Yearly,1,E-wallet,0.2,Tablet,0
+S0729,52.7,Premium,7,Monthly,1,Card,7.3,TV,1
+S0731,37.6,Standard,7,Monthly,1,Card,4.4,Laptop,0
+S0732,35.8,Standard,6,Monthly,4,E-wallet,13.8,Phone,1
+S0734,39.1,Standard,12,6-month,1,E-wallet,4.1,Phone,0
+S0735,27.7,Basic,8,Monthly,3,E-wallet,6.8,Phone,1
+S0736,37.7,Standard,30,6-month,1,Card,10.1,Tablet,0
+S0737,37.6,Standard,9,Monthly,2,E-wallet,2.7,Laptop,1
+S0738,52.9,Premium,2,Yearly,3,E-wallet,4.4,TV,1
+S0739,54.2,Premium,21,Yearly,2,E-wallet,6.2,Phone,0
+S0740,53.2,Premium,1,Yearly,0,Card,1.9,Phone,0
+S0741,23.9,Basic,19,Yearly,0,E-wallet,12.0,TV,0
+S0742,22.3,Basic,20,Yearly,1,Card,12.4,Laptop,0
+S0743,27.0,Basic,12,Monthly,0,Cash voucher,19.1,Phone,0
+S0744,23.8,Basic,27,Monthly,0,E-wallet,8.7,Laptop,0
+S0745,36.7,Standard,8,6-month,1,Cash voucher,3.4,Phone,1
+S0746,44.5,Standard,7,Monthly,2,Card,4.3,Phone,1
+S0747,19.5,Basic,13,Monthly,1,E-wallet,5.3,Phone,0
+S0748,23.3,Basic,12,Monthly,1,Bank transfer,5.9,TV,0
+S0749,39.4,Standard,15,Yearly,0,E-wallet,0.7,Phone,0
+S0750,26.5,Basic,17,6-month,1,E-wallet,7.7,Laptop,0
+S0751,21.3,Basic,7,Monthly,1,Cash voucher,18.1,Laptop,0
+S0753,26.2,Basic,20,Monthly,2,Card,10.3,Phone,0
+S0754,26.5,Basic,11,6-month,2,Bank transfer,8.1,Phone,0
+S0755,39.0,Standard,15,Yearly,3,Bank transfer,8.4,Tablet,0
+S0756,26.9,Basic,17,Monthly,0,E-wallet,2.5,TV,0
+S0757,23.4,Basic,45,Yearly,2,Card,13.4,Phone,0
+S0759,41.6,Standard,42,6-month,1,Card,20.7,Phone,0
+S0760,28.3,Basic,58,6-month,1,E-wallet,7.6,Phone,0
+S0761,48.3,Premium,3,Yearly,2,E-wallet,4.0,Laptop,0
+S0762,25.2,Basic,17,Monthly,1,Cash voucher,3.0,Phone,1
+S0763,40.2,Standard,18,Yearly,1,Card,6.2,Laptop,0
+S0764,56.3,Premium,8,Monthly,1,Card,2.7,Laptop,1
+S0765,55.0,Premium,28,Yearly,0,Cash voucher,6.2,TV,0
+S0766,21.8,Basic,12,Monthly,1,E-wallet,3.7,Laptop,0
+S0767,56.4,Premium,16,Monthly,1,Card,2.9,Phone,1
+S0768,43.5,Standard,37,6-month,1,Cash voucher,13.9,Tablet,0
+S0769,22.7,Basic,41,Monthly,0,Bank transfer,2.4,Phone,0
+S0770,38.3,Standard,10,Monthly,1,Card,7.3,Laptop,1
+S0771,53.6,Premium,6,Monthly,1,Cash voucher,1.4,TV,1
+S0774,41.3,Standard,30,Monthly,4,Bank transfer,11.6,Laptop,1
+S0775,53.2,Premium,18,Monthly,1,E-wallet,17.2,Phone,0
+S0777,28.4,Basic,9,Monthly,1,Cash voucher,5.3,Phone,1
+S0778,55.6,Premium,11,Monthly,2,E-wallet,2.6,Phone,1
+S0779,19.4,Basic,9,6-month,1,Bank transfer,7.6,Phone,0
+S0780,37.1,Standard,19,6-month,2,E-wallet,7.4,TV,0
+S0781,24.5,Basic,28,6-month,1,Card,5.7,TV,0
+S0782,54.5,Premium,25,6-month,1,E-wallet,4.1,Laptop,0
+S0783,54.3,Premium,9,Monthly,1,Card,3.2,Phone,0
+S0784,55.1,Premium,10,Monthly,0,Card,13.7,Laptop,0
+S0785,22.9,Basic,13,6-month,1,Card,8.1,Phone,0
+S0786,58.0,Premium,17,Yearly,2,Cash voucher,2.9,TV,0
+S0788,54.5,Premium,15,6-month,3,E-wallet,5.3,TV,0
+S0789,28.8,Basic,14,Yearly,1,Bank transfer,9.7,Phone,0
+S0790,55.3,Premium,39,Monthly,1,E-wallet,7.6,Tablet,0
+S0791,35.7,Standard,5,Monthly,1,E-wallet,2.4,Laptop,1
+S0792,38.6,Standard,11,Monthly,3,E-wallet,10.4,TV,0
+S0793,38.5,Standard,4,Monthly,1,Card,9.0,Phone,0
+S0794,20.7,Basic,31,Monthly,2,E-wallet,2.9,Phone,0
+S0795,25.4,Basic,10,Yearly,3,Card,12.8,TV,0
+S0798,42.9,Standard,14,6-month,1,Bank transfer,3.0,TV,1
+S0799,35.8,Standard,52,6-month,2,E-wallet,5.0,Phone,0
+S0800,37.1,Standard,7,Yearly,4,E-wallet,9.8,TV,0
+S0801,42.4,Standard,6,Monthly,2,Card,6.1,Phone,1
+S0803,29.8,Basic,3,6-month,0,E-wallet,0.4,Laptop,1
+S0804,55.7,Premium,12,Yearly,2,E-wallet,14.9,Tablet,0
+S0805,44.8,Standard,23,6-month,2,Card,7.7,TV,0
+S0806,30.7,Basic,16,Yearly,2,Bank transfer,11.3,Phone,0
+S0807,40.4,Standard,22,Monthly,2,Cash voucher,3.5,Laptop,1
+S0808,42.3,Standard,5,Yearly,1,Bank transfer,3.3,Phone,0
+S0809,37.9,Standard,30,Yearly,1,Bank transfer,0.6,TV,0
+S0810,37.2,Standard,13,Monthly,3,Bank transfer,5.8,Phone,1
+S0811,54.7,Premium,25,Monthly,0,Bank transfer,1.2,Phone,0
+S0812,37.1,Standard,4,Monthly,1,E-wallet,5.4,TV,0
+S0818,25.4,Basic,12,Yearly,2,Card,7.9,Phone,0
+S0820,38.8,Standard,1,Yearly,0,Cash voucher,9.5,Tablet,0
+S0821,54.3,Premium,18,Yearly,2,Card,13.2,Phone,0
+S0822,47.3,Standard,17,Yearly,1,Card,4.4,Phone,0
+S0823,43.5,Standard,17,Monthly,5,Bank transfer,10.4,TV,1
+S0825,21.7,Basic,16,Monthly,2,Card,3.6,TV,1
+S0826,28.4,Basic,4,Yearly,2,Card,12.2,TV,0
+S0827,53.5,Premium,4,6-month,0,E-wallet,10.1,TV,0
+S0828,57.0,Premium,16,Yearly,0,Card,8.1,Phone,0
+S0829,53.2,Premium,2,Monthly,0,E-wallet,11.1,Phone,1
+S0831,34.7,Standard,6,Monthly,4,E-wallet,12.1,Laptop,0
+S0832,26.6,Basic,1,6-month,2,Card,3.9,TV,0
+S0834,39.8,Standard,8,6-month,1,Bank transfer,3.0,Phone,0
+S0835,25.7,Basic,10,Monthly,3,E-wallet,2.0,TV,1
+S0840,57.5,Premium,4,Monthly,2,Card,15.5,TV,0
+S0842,19.4,Basic,13,Monthly,3,Card,17.7,Laptop,0
+S0843,26.9,Basic,11,Yearly,0,E-wallet,3.5,TV,0
+S0845,28.0,Basic,9,Monthly,1,E-wallet,6.3,Phone,0
+S0846,29.0,Basic,9,Yearly,0,E-wallet,7.4,Tablet,0
+S0847,24.9,Basic,20,Yearly,0,E-wallet,17.1,Tablet,0
+S0848,42.4,Standard,21,Monthly,0,E-wallet,27.1,Phone,0
+S0849,43.5,Standard,13,6-month,2,Cash voucher,1.2,TV,1
+S0850,42.6,Standard,13,6-month,1,Card,3.8,Tablet,0
+S0851,52.5,Premium,7,Monthly,1,Bank transfer,3.0,Phone,1
+S0852,58.5,Premium,13,Monthly,1,Bank transfer,3.7,Phone,1
+S0853,25.9,Basic,12,Monthly,2,Bank transfer,1.4,TV,0
+S0854,30.7,Standard,2,Monthly,0,Bank transfer,3.2,Phone,1
+S0855,42.6,Standard,7,Monthly,1,E-wallet,20.0,Tablet,0
+S0857,20.6,Basic,9,Monthly,0,E-wallet,1.2,Phone,0
+S0858,37.7,Standard,5,6-month,0,Bank transfer,9.6,TV,0
+S0859,38.7,Standard,15,Yearly,0,E-wallet,16.6,Phone,0
+S0860,23.1,Basic,14,Monthly,1,Card,7.9,Laptop,0
+S0861,34.8,Standard,4,Monthly,4,E-wallet,5.0,Phone,1
+S0862,48.4,Premium,16,Yearly,0,Card,12.5,Phone,0
+S0864,54.2,Premium,36,Monthly,1,Card,3.3,Phone,0
+S0865,52.6,Premium,22,Monthly,6,E-wallet,7.3,Laptop,1
+S0866,27.5,Basic,15,Monthly,2,E-wallet,3.6,Phone,1
+S0867,56.4,Premium,53,Monthly,4,Card,14.6,TV,0
+S0868,28.8,Basic,12,Yearly,0,Cash voucher,6.6,Laptop,0
+S0869,38.7,Standard,52,Monthly,2,Card,9.2,Phone,0
+S0870,56.9,Premium,15,Monthly,0,E-wallet,9.4,TV,0
+S0871,26.3,Basic,3,Monthly,1,Bank transfer,1.8,Phone,0
+S0874,23.5,Basic,27,Monthly,3,Bank transfer,5.9,Phone,1
+S0875,24.1,Basic,28,Monthly,0,Cash voucher,9.9,Phone,0
+S0877,25.9,Basic,5,Monthly,0,Cash voucher,3.5,TV,0
+S0878,43.8,Standard,4,Monthly,4,E-wallet,1.7,Laptop,1
+S0879,40.4,Standard,1,Yearly,1,E-wallet,7.7,Phone,0
+S0880,20.7,Basic,1,Monthly,3,Card,20.0,Tablet,1
+S0881,38.6,Standard,15,Monthly,4,Card,6.4,Phone,1
+S0883,35.4,Standard,9,Monthly,0,Cash voucher,2.3,Tablet,1
+S0884,53.2,Premium,26,Monthly,2,Card,9.3,Laptop,0
+S0885,24.5,Basic,35,Yearly,2,Cash voucher,9.6,TV,0
+S0886,51.8,Premium,28,Monthly,1,Card,10.9,TV,0
+S0887,39.5,Standard,3,Yearly,0,Bank transfer,1.8,Laptop,0
+S0888,39.2,Standard,16,6-month,0,E-wallet,13.9,Laptop,0
+S0889,28.9,Basic,38,Monthly,1,E-wallet,4.9,Laptop,0
+S0890,28.4,Basic,21,Monthly,1,Card,14.8,Laptop,0
+S0892,39.3,Standard,13,6-month,0,Card,8.4,Laptop,0
+S0893,22.7,Basic,9,Monthly,0,Bank transfer,2.4,TV,0
+S0894,43.2,Standard,27,Monthly,1,Card,3.7,Phone,1
+S0895,59.0,Premium,21,6-month,0,Bank transfer,3.4,Laptop,0
+S0896,40.5,Standard,15,6-month,0,Bank transfer,6.4,Laptop,1
+S0897,36.7,Standard,10,6-month,1,E-wallet,2.5,Laptop,0
+S0899,35.6,Standard,21,Yearly,2,Card,5.4,TV,0
+S0900,26.1,Basic,52,6-month,1,E-wallet,5.1,Phone,0
+S0901,41.9,Standard,14,Monthly,0,Card,4.3,Laptop,1
+S0902,28.2,Basic,18,Yearly,2,Cash voucher,10.1,Phone,0
+S0903,58.2,Premium,22,Yearly,3,Card,11.0,Phone,0
+S0906,26.6,Basic,21,Yearly,0,E-wallet,7.3,Laptop,0
+S0908,40.9,Standard,9,Yearly,0,Cash voucher,1.4,Phone,0
+S0912,27.0,Basic,10,Yearly,2,Cash voucher,5.5,Laptop,0
+S0913,49.9,Premium,16,Yearly,3,Card,10.2,Phone,0
+S0914,49.9,Premium,29,6-month,0,E-wallet,8.0,Phone,0
+S0916,28.1,Basic,28,Monthly,0,Bank transfer,8.0,Phone,0
+S0917,56.2,Premium,5,Monthly,1,E-wallet,6.5,Laptop,1
+S0918,40.3,Standard,15,Yearly,4,Bank transfer,10.1,Phone,0
+S0919,58.2,Premium,34,Monthly,0,E-wallet,8.4,Phone,0
+S0920,22.8,Basic,4,6-month,0,Cash voucher,3.7,Phone,1
+S0922,57.1,Premium,9,Monthly,1,Card,4.3,Tablet,1
+S0923,39.3,Standard,3,6-month,2,E-wallet,6.3,TV,0
+S0926,41.0,Standard,14,Monthly,2,Cash voucher,7.1,Tablet,1
+S0927,55.1,Premium,1,6-month,1,Card,6.9,TV,1
+S0928,53.4,Premium,10,Yearly,0,Bank transfer,15.0,Phone,0
+S0929,59.5,Premium,12,Monthly,0,Cash voucher,2.5,Tablet,1
+S0930,54.9,Premium,22,6-month,3,Card,6.9,TV,0
+S0931,31.2,Basic,5,Yearly,2,E-wallet,4.2,TV,0
+S0932,38.4,Standard,1,6-month,1,E-wallet,1.0,Phone,0
+S0933,44.8,Standard,10,Monthly,1,E-wallet,2.7,TV,0
+S0934,40.9,Standard,17,Monthly,1,Card,7.9,Phone,0
+S0935,48.9,Premium,9,Yearly,0,E-wallet,10.7,Tablet,0
+S0936,23.7,Basic,9,Monthly,0,E-wallet,13.4,Phone,0
+S0937,24.8,Basic,11,Monthly,1,E-wallet,5.1,Laptop,0
+S0938,41.8,Standard,8,Yearly,2,Bank transfer,1.8,Tablet,0
+S0939,21.1,Basic,23,6-month,1,E-wallet,5.4,Phone,0
+S0940,42.5,Standard,2,6-month,1,Card,11.1,Laptop,0
+S0942,41.0,Standard,12,Monthly,1,Bank transfer,11.3,Phone,1
+S0943,54.6,Premium,32,Yearly,1,Bank transfer,14.6,Tablet,0
+S0948,53.3,Premium,3,Yearly,1,Card,5.4,Phone,0
+S0949,20.8,Basic,7,Monthly,1,E-wallet,15.3,Phone,0
+S0950,24.3,Basic,4,6-month,0,E-wallet,1.4,TV,0
+S0952,24.2,Basic,17,6-month,0,Card,4.3,Laptop,0
+S0953,19.4,Basic,3,Yearly,4,Card,6.0,TV,1
+S0954,25.9,Basic,8,6-month,3,Card,11.8,Phone,0
+S0956,23.1,Basic,6,Yearly,0,Card,6.5,TV,0
+S0957,28.4,Basic,11,Yearly,1,Bank transfer,7.5,Laptop,0
+S0958,40.1,Standard,27,Yearly,1,Bank transfer,3.8,TV,0
+S0959,36.0,Standard,52,6-month,0,Card,11.7,TV,0
+S0960,53.6,Premium,43,6-month,1,E-wallet,5.7,TV,0
+S0961,42.3,Standard,12,Monthly,1,Card,10.4,Phone,1
+S0962,37.5,Standard,12,Yearly,1,E-wallet,6.8,Laptop,0
+S0964,41.6,Standard,18,Monthly,1,E-wallet,4.2,Tablet,0
+S0965,40.1,Standard,15,Monthly,0,Bank transfer,14.5,Laptop,1
+S0966,24.7,Basic,5,Monthly,1,Bank transfer,11.8,Phone,0
+S0967,23.2,Basic,2,Monthly,1,Card,8.4,Phone,0
+S0970,25.3,Basic,27,Yearly,1,E-wallet,2.0,TV,0
+S0971,25.1,Basic,12,Monthly,2,Card,5.4,Phone,0
+S0972,52.3,Premium,7,6-month,1,Bank transfer,4.6,Phone,0
+S0975,25.2,Basic,23,6-month,0,E-wallet,4.4,Phone,0
+S0978,24.2,Basic,6,Monthly,2,Card,6.5,Laptop,0
+S0979,45.1,Standard,22,Yearly,0,Card,12.1,Laptop,0
+S0980,26.8,Basic,7,Monthly,0,Card,3.1,TV,0
+S0982,29.3,Basic,21,6-month,4,Card,18.3,TV,0
+S0983,40.9,Standard,15,Yearly,1,Cash voucher,13.8,Laptop,0
+S0984,41.2,Standard,17,Yearly,1,Card,14.4,Phone,0
+S0985,53.0,Premium,23,Yearly,1,E-wallet,9.8,Tablet,0
+S0988,37.5,Standard,13,Monthly,3,Bank transfer,5.0,Phone,1
+S0990,57.9,Premium,11,Yearly,2,Card,2.6,Phone,0
+S0992,28.4,Basic,13,Monthly,2,E-wallet,7.6,Phone,1
+S0994,24.5,Basic,28,6-month,0,E-wallet,6.0,Phone,0
+S0995,56.1,Premium,8,Yearly,1,Bank transfer,3.3,Phone,0
+S0996,37.8,Standard,10,Monthly,2,Card,2.3,Phone,1
+S0998,27.4,Basic,22,Monthly,2,Card,5.6,TV,0
+S0999,31.3,Basic,15,Monthly,0,Card,12.1,Laptop,0
+S1000,31.9,Basic,3,6-month,2,Bank transfer,0.8,Phone,1
+S1002,53.0,Premium,10,Yearly,1,Card,6.5,Phone,0
+S1003,21.5,Basic,34,Monthly,1,Card,17.2,Tablet,0
+S1004,20.7,Basic,8,Monthly,2,Card,5.5,Laptop,1
+S1005,24.2,Basic,16,Monthly,3,Card,7.8,Phone,1
+S1006,45.5,Standard,12,Yearly,0,Card,4.6,Phone,0
+S1007,41.6,Standard,5,Monthly,2,E-wallet,6.5,TV,1
+S1009,25.4,Basic,36,Monthly,0,Card,8.4,TV,0
+S1010,21.7,Basic,31,Monthly,1,Bank transfer,2.1,Phone,0
+S1011,27.4,Basic,22,6-month,0,Cash voucher,10.0,TV,0
+S1012,24.1,Basic,19,6-month,1,Bank transfer,3.0,Phone,1
+S1013,29.0,Basic,28,6-month,1,Card,7.0,Phone,0
+S1014,24.4,Basic,17,Monthly,0,E-wallet,12.6,TV,0
+S1015,37.6,Standard,14,Monthly,0,Card,2.7,Phone,0
+S1017,43.8,Standard,19,Yearly,0,Bank transfer,5.7,Tablet,0
+S1018,34.1,Standard,7,Monthly,2,Bank transfer,12.9,Tablet,0
+S1019,37.6,Standard,20,Monthly,1,Card,7.9,TV,0
+S1021,52.7,Premium,17,Monthly,1,Card,14.9,Tablet,0
+S1022,36.9,Standard,9,Monthly,0,E-wallet,4.3,Phone,0
+S1023,41.6,Standard,7,6-month,0,E-wallet,7.5,TV,0
+S1024,42.9,Standard,13,Yearly,1,Card,3.7,Tablet,0
+S1025,36.4,Standard,27,6-month,1,E-wallet,7.1,Tablet,0
+S1026,27.5,Basic,28,Monthly,1,E-wallet,5.0,TV,0
+S1027,25.7,Basic,18,Monthly,2,Card,0.5,TV,1
+S1028,43.2,Standard,9,Monthly,0,Bank transfer,8.4,Phone,0
+S1029,51.7,Premium,4,Yearly,1,Cash voucher,4.0,Phone,0
+S1030,20.6,Basic,27,Yearly,1,E-wallet,3.8,TV,0
+S1031,21.0,Basic,18,Monthly,3,Card,2.9,TV,1
+S1032,42.1,Standard,55,Monthly,0,Card,15.1,Laptop,0
+S1034,24.6,Basic,22,Monthly,0,Card,4.7,Phone,0
+S1035,40.1,Standard,22,6-month,1,Card,3.1,Phone,0
+S1036,43.0,Standard,11,Monthly,0,E-wallet,5.2,TV,0
+S1038,21.4,Basic,27,Monthly,3,E-wallet,0.7,Tablet,1
+S1039,24.1,Basic,18,6-month,1,Bank transfer,4.3,Phone,0
+S1040,45.4,Standard,19,Yearly,1,E-wallet,5.6,Phone,0
+S1043,24.9,Basic,31,Monthly,2,Card,5.8,Tablet,0
+S1044,20.6,Basic,19,Monthly,1,Cash voucher,0.5,TV,0
+S1046,51.8,Premium,29,6-month,0,E-wallet,16.5,Tablet,0
+S1047,22.3,Basic,12,Yearly,0,E-wallet,6.1,Phone,0
+S1048,36.7,Standard,12,Yearly,4,Card,6.6,TV,0
+S1049,40.8,Standard,22,Yearly,1,E-wallet,16.7,Laptop,0
+S1051,22.6,Basic,26,6-month,1,E-wallet,1.4,Phone,0
+S1052,51.7,Premium,18,Yearly,1,Cash voucher,12.9,TV,0
+S1053,52.3,Premium,31,Yearly,0,E-wallet,11.6,Tablet,0
+S1054,23.9,Basic,8,Yearly,2,Cash voucher,7.3,TV,0
+S1055,26.7,Basic,9,Monthly,2,E-wallet,2.4,Phone,0
+S1056,27.6,Basic,4,6-month,1,Card,3.3,Phone,0
+S1058,24.4,Basic,25,Monthly,0,Cash voucher,21.2,Laptop,0
+S1059,63.7,Premium,20,Monthly,1,Cash voucher,5.5,Laptop,1
+S1060,44.3,Standard,7,Yearly,0,Cash voucher,21.0,Laptop,0
+S1061,43.2,Standard,10,Monthly,1,Card,14.5,Phone,0
+S1062,36.2,Standard,19,6-month,2,Card,16.2,Laptop,0
+S1064,35.7,Standard,8,Yearly,1,Card,8.4,Phone,0
+S1065,36.9,Standard,5,6-month,1,Card,10.8,Phone,0
+S1066,54.6,Premium,31,Yearly,2,Card,9.4,Tablet,0
+S1067,54.9,Premium,7,Monthly,4,E-wallet,2.4,Laptop,1
+S1069,29.8,Basic,25,Monthly,1,E-wallet,5.9,TV,0
+S1070,26.7,Basic,13,6-month,1,Bank transfer,8.7,TV,0
+S1071,37.9,Standard,10,Monthly,2,Card,15.3,TV,0
+S1072,24.1,Basic,15,6-month,1,Card,3.7,Phone,0
+S1073,23.3,Basic,20,Monthly,1,Card,3.4,Tablet,0
+S1074,54.5,Premium,31,Monthly,1,Card,4.3,Tablet,0
+S1075,26.3,Basic,2,Monthly,2,Bank transfer,2.3,TV,1
+S1076,23.1,Basic,31,6-month,2,E-wallet,4.2,Laptop,0
+S1077,39.8,Standard,14,Monthly,0,Card,1.8,Laptop,0
+S1078,42.5,Standard,19,Yearly,0,E-wallet,3.7,Laptop,0
+S1079,56.5,Premium,33,6-month,1,Card,10.9,Phone,0
+S1082,42.3,Standard,36,Yearly,1,E-wallet,11.8,Laptop,0
+S1083,38.1,Standard,23,Monthly,0,Bank transfer,4.9,Phone,0
+S1084,22.3,Basic,12,6-month,2,Bank transfer,0.7,Phone,0
+S1086,44.1,Standard,28,6-month,1,Bank transfer,3.7,Phone,0
+S1088,36.9,Standard,6,Monthly,0,E-wallet,4.3,TV,0
+S1089,20.6,Basic,16,6-month,0,E-wallet,15.3,Laptop,0
+S1090,54.3,Premium,19,Monthly,1,E-wallet,11.9,Laptop,1
+S1091,39.3,Standard,20,6-month,0,E-wallet,4.9,Phone,0
+S1092,40.0,Standard,15,6-month,2,E-wallet,7.7,Laptop,0
+S1093,37.0,Standard,51,Monthly,1,Card,1.4,Phone,0
+S1094,20.8,Basic,6,Monthly,1,E-wallet,5.9,TV,0
+S1095,41.9,Standard,13,6-month,0,E-wallet,13.4,TV,0
+S1098,40.2,Standard,13,Monthly,1,Bank transfer,4.6,Phone,0
+S1099,53.9,Premium,11,Monthly,1,Bank transfer,9.7,Laptop,0
+S1100,41.9,Standard,13,Yearly,2,Cash voucher,2.5,TV,0
+S1102,40.9,Standard,6,Yearly,3,E-wallet,3.8,Phone,0
+S1104,54.3,Premium,16,Monthly,1,E-wallet,15.9,Phone,0
+S1105,48.5,Premium,3,Yearly,0,E-wallet,8.3,Phone,0
+S1107,19.5,Basic,8,Monthly,1,E-wallet,11.3,Phone,0
+S1108,26.1,Basic,18,Monthly,0,E-wallet,3.2,Phone,0
+S1109,47.4,Premium,36,Monthly,0,E-wallet,18.5,TV,0
+S1110,41.8,Standard,9,Yearly,1,Bank transfer,8.8,Phone,0
+S1111,38.3,Standard,8,Monthly,2,E-wallet,3.2,Phone,1
+S1112,41.3,Standard,32,6-month,0,Cash voucher,8.8,TV,0
+S1113,20.5,Basic,12,Monthly,0,Cash voucher,0.9,Phone,0
+S1114,40.3,Standard,18,6-month,3,Bank transfer,3.2,Phone,0
+S1115,36.9,Standard,18,Monthly,2,E-wallet,15.7,TV,0
+S1116,51.9,Premium,39,Monthly,0,Card,5.0,Phone,0
+S1117,58.9,Premium,13,Yearly,0,Card,2.8,Phone,0
+S1119,25.4,Basic,7,Monthly,0,E-wallet,4.6,TV,0
+S1120,41.9,Standard,4,Yearly,0,E-wallet,3.3,TV,0
+S1122,39.3,Standard,7,Yearly,3,Bank transfer,2.8,Laptop,0
+S1124,39.4,Standard,10,Monthly,0,E-wallet,3.1,TV,0
+S1125,55.4,Premium,16,Monthly,6,Card,13.8,Laptop,1
+S1126,39.0,Standard,10,Yearly,1,Bank transfer,15.2,Tablet,0
+S1127,44.2,Standard,7,Monthly,0,Cash voucher,0.9,TV,0
+S1128,25.6,Basic,50,Yearly,0,Cash voucher,14.6,Laptop,0
+S1129,39.1,Standard,5,Yearly,0,E-wallet,6.3,TV,0
+S1130,40.1,Standard,19,Monthly,2,E-wallet,5.2,TV,0
+S1131,24.2,Basic,30,Monthly,4,Bank transfer,19.3,TV,0
+S1132,41.1,Standard,16,Yearly,0,Bank transfer,5.4,Tablet,0
+S1133,36.8,Standard,19,Monthly,1,Cash voucher,3.0,Phone,0
+S1134,24.8,Basic,18,6-month,2,E-wallet,8.1,Laptop,0
+S1135,41.0,Standard,4,Monthly,0,Cash voucher,2.4,Laptop,1
+S1136,20.7,Basic,10,Yearly,1,E-wallet,4.3,Phone,0
+S1137,42.5,Standard,5,Monthly,0,Card,8.1,Phone,0
+S1138,42.3,Standard,11,Monthly,2,Card,8.8,Phone,1
+S1139,37.6,Standard,18,6-month,1,Bank transfer,6.7,Laptop,0
+S1140,36.6,Standard,14,6-month,3,Card,2.2,TV,1
+S1141,39.7,Standard,30,Yearly,0,Card,4.5,Phone,0
+S1142,55.6,Premium,27,Monthly,1,E-wallet,8.9,Phone,0
+S1145,42.7,Standard,14,Monthly,2,Card,3.3,TV,0
+S1146,52.8,Premium,8,Monthly,0,Card,7.1,TV,0
+S1147,17.2,Basic,9,Monthly,1,Card,7.5,Laptop,0
+S1148,19.1,Basic,11,Monthly,1,Cash voucher,2.8,Laptop,0
+S1150,43.0,Standard,22,Monthly,0,Card,3.0,Laptop,0
+S1151,38.9,Standard,29,Monthly,2,Bank transfer,4.1,Laptop,1
+S1152,23.9,Basic,7,Monthly,0,Card,14.1,Laptop,0
+S1153,54.8,Premium,13,Yearly,2,Card,5.4,TV,0
+S1157,56.4,Premium,30,Yearly,2,Bank transfer,10.3,Phone,0
+S1158,42.9,Standard,26,Monthly,1,Card,9.0,Phone,0
+S1159,49.6,Premium,27,Monthly,2,Card,5.2,Phone,0
+S1160,49.3,Premium,6,Monthly,1,Bank transfer,4.0,Laptop,1
+S1161,39.8,Standard,7,Monthly,2,Card,12.5,TV,0
+S1162,22.2,Basic,3,Monthly,1,Card,5.6,Laptop,0
+S1163,55.1,Premium,16,Monthly,0,E-wallet,13.1,Phone,0
+S1164,54.7,Premium,7,Monthly,0,Cash voucher,10.4,TV,0
+S1165,26.3,Basic,26,Monthly,2,Card,3.6,TV,0
+S1166,47.0,Standard,17,Monthly,1,Card,5.7,TV,1
+S1167,53.4,Premium,25,Monthly,2,Cash voucher,12.4,Laptop,0
+S1168,43.0,Standard,16,Monthly,0,Bank transfer,8.8,Laptop,0
+S1169,25.8,Basic,9,Monthly,2,E-wallet,7.9,Phone,0
+S1171,27.6,Basic,7,Yearly,3,Card,3.9,Phone,0
+S1172,29.3,Basic,23,6-month,1,Bank transfer,11.8,Laptop,0
+S1174,27.4,Basic,46,Monthly,0,E-wallet,4.1,Phone,0
+S1175,24.0,Basic,6,6-month,1,Card,6.5,Phone,0
+S1176,55.4,Premium,7,6-month,1,Card,12.4,TV,0
+S1177,23.1,Basic,21,Yearly,1,Card,2.7,Tablet,0
+S1178,41.9,Standard,11,Monthly,1,Cash voucher,4.6,Phone,1
+S1179,24.7,Basic,7,Monthly,0,Cash voucher,4.1,TV,0
+S1180,29.1,Basic,3,Yearly,2,Bank transfer,10.3,Laptop,0
+S1181,42.1,Standard,14,Yearly,1,Bank transfer,10.2,Tablet,0
+S1182,53.6,Premium,39,Monthly,1,Cash voucher,8.7,Phone,1
+S1183,38.7,Standard,23,Monthly,1,Cash voucher,2.5,Laptop,0
+S1184,52.1,Premium,3,6-month,0,Card,6.1,TV,0
+S1185,38.9,Standard,14,Monthly,0,E-wallet,10.8,Phone,0
+S1187,57.5,Premium,53,Monthly,2,Bank transfer,14.0,Tablet,0
+S1188,51.1,Premium,9,Yearly,0,Bank transfer,12.3,Phone,0
+S1189,37.0,Standard,6,Monthly,2,Card,7.3,Phone,0
+S1190,55.3,Premium,43,Yearly,2,Cash voucher,4.9,Phone,0
+S1193,43.3,Standard,22,Monthly,0,Card,20.4,Tablet,0
+S1194,23.3,Basic,14,Monthly,1,Cash voucher,9.1,Phone,0
+S1195,25.4,Basic,24,Yearly,2,E-wallet,12.8,Phone,0
+S1197,30.5,Basic,20,Monthly,0,Card,5.3,Phone,0
+S1198,55.5,Premium,21,Yearly,4,Cash voucher,2.8,Laptop,1
+S1199,45.2,Standard,6,6-month,1,Card,1.7,TV,0
+S1201,41.9,Standard,19,6-month,2,Card,2.9,TV,0
+S1202,46.4,Standard,24,Monthly,2,Card,5.6,Phone,0
+S1204,55.6,Premium,45,Monthly,2,Card,5.8,TV,0
+S1205,28.0,Basic,14,Monthly,1,E-wallet,10.4,Phone,0
+S1206,41.4,Standard,5,Monthly,0,Card,4.9,Phone,0
+S1207,22.2,Basic,18,6-month,2,Cash voucher,17.1,Laptop,0
+S1209,27.6,Basic,2,Monthly,0,Card,4.8,Phone,1
+S1210,40.9,Standard,4,Yearly,0,Card,1.1,Laptop,0
+S1211,34.1,Standard,11,Monthly,3,E-wallet,9.2,Phone,1
+S1212,22.3,Basic,8,Monthly,1,Bank transfer,5.0,Laptop,0
+S1213,29.0,Basic,12,Monthly,0,Card,3.3,Phone,0
+S1215,25.5,Basic,20,Monthly,1,Bank transfer,2.9,TV,0
+S1216,41.2,Standard,16,Yearly,3,Card,10.4,Phone,0
+S1217,36.3,Standard,5,Monthly,2,E-wallet,6.8,Phone,1
+S1218,34.5,Standard,4,6-month,2,Card,11.0,Phone,1
+S1219,41.1,Standard,4,Monthly,3,Card,5.3,Tablet,1
+S1220,29.9,Basic,43,Monthly,2,Card,12.3,Phone,0
+S1221,57.0,Premium,2,Monthly,2,E-wallet,38.1,TV,0
+S1222,23.0,Basic,8,Monthly,2,E-wallet,3.3,Phone,1
+S1223,22.2,Basic,17,Monthly,1,Card,8.1,Tablet,0
+S1225,24.4,Basic,46,Monthly,0,Card,14.1,Phone,0
+S1226,38.4,Standard,26,Monthly,1,Card,19.9,Phone,1
+S1227,25.5,Basic,52,Monthly,1,Card,7.3,Phone,0
+S1228,23.6,Basic,7,Yearly,1,Cash voucher,0.9,TV,0
+S1229,24.7,Basic,26,Monthly,2,E-wallet,11.0,Laptop,0
+S1230,46.0,Standard,11,Monthly,1,Card,6.1,TV,1
+S1231,38.9,Standard,12,6-month,1,Bank transfer,1.8,Phone,0
+S1232,39.0,Standard,6,Monthly,3,Bank transfer,2.5,Tablet,1
+S1234,40.5,Standard,7,Monthly,3,Card,3.8,Laptop,1
+S1236,27.8,Basic,19,6-month,1,Card,6.1,Laptop,0
+S1237,60.2,Premium,11,Yearly,1,E-wallet,0.6,Phone,0
+S1238,54.0,Premium,32,6-month,0,Bank transfer,16.6,Laptop,0
+S1239,24.4,Basic,18,6-month,0,Card,4.5,TV,0
+S1240,57.6,Premium,10,Monthly,1,Card,20.2,Laptop,0
+S1242,38.4,Standard,6,Monthly,0,E-wallet,19.7,TV,0
+S1243,26.4,Basic,5,Monthly,2,Cash voucher,3.9,Tablet,1
+S1245,18.8,Basic,22,Monthly,2,Bank transfer,4.5,Laptop,0
+S1247,54.7,Premium,5,Yearly,0,Bank transfer,6.6,Phone,0
+S1248,21.4,Basic,16,Monthly,1,Bank transfer,19.7,Phone,0
+S1250,25.1,Basic,54,Monthly,3,Card,2.6,TV,0
+S1251,37.4,Standard,2,6-month,1,Cash voucher,6.0,Laptop,0
+S1252,37.4,Standard,3,Monthly,1,Cash voucher,8.7,TV,0
+S1253,44.4,Standard,23,Monthly,1,Cash voucher,5.3,Phone,1
+S1254,55.5,Premium,7,Monthly,1,Card,4.8,Laptop,1
+S1255,39.8,Standard,4,Yearly,1,Card,4.7,Phone,0
+S1256,23.3,Basic,14,Monthly,1,Cash voucher,27.7,TV,0
+S1257,40.1,Standard,18,6-month,0,Card,2.2,Phone,0
+S1258,36.5,Standard,19,Monthly,2,Cash voucher,1.7,TV,1
+S1259,24.2,Basic,10,Monthly,2,Card,4.8,Laptop,1
+S1260,51.0,Premium,17,6-month,0,Bank transfer,16.9,Laptop,0
+S1262,26.6,Basic,25,Yearly,1,Bank transfer,8.1,Laptop,0
+S1263,40.7,Standard,4,Monthly,1,E-wallet,3.3,Phone,0
+S1264,54.1,Premium,3,Yearly,2,E-wallet,13.2,Phone,0
+S1265,40.4,Standard,23,Monthly,1,Bank transfer,10.8,Phone,0
+S1266,39.4,Standard,5,Monthly,1,Card,3.9,Phone,0
+S1268,20.1,Basic,44,6-month,2,Card,1.6,Phone,0
+S1269,41.8,Standard,9,Monthly,2,Bank transfer,10.2,Phone,0
+S1270,27.9,Basic,20,Monthly,3,Card,19.1,Phone,0
+S1271,25.3,Basic,6,Monthly,3,Card,4.6,Tablet,1
+S1275,28.4,Basic,48,Monthly,1,Bank transfer,4.4,Phone,0
+S1278,27.2,Basic,16,6-month,2,Card,5.7,Phone,0
+S1279,42.8,Standard,3,Monthly,3,Cash voucher,7.0,TV,1
+S1280,57.2,Premium,4,6-month,1,Card,5.5,TV,0
+S1281,41.9,Standard,43,6-month,2,E-wallet,9.1,Phone,0
+S1282,56.2,Premium,46,6-month,0,E-wallet,5.7,Laptop,0
+S1283,29.4,Basic,21,Yearly,0,E-wallet,4.1,Laptop,0
+S1284,38.1,Standard,39,Yearly,1,Card,2.7,Phone,0
+S1285,30.9,Basic,5,Yearly,3,Card,0.8,Laptop,0
+S1286,55.1,Premium,11,Monthly,0,E-wallet,5.3,TV,1
+S1288,20.7,Basic,15,Monthly,1,E-wallet,9.1,Phone,0
+S1289,40.8,Standard,20,Monthly,2,E-wallet,9.3,TV,0
+S1290,54.9,Premium,8,6-month,3,Card,4.9,Phone,0
+S1291,40.1,Standard,7,Yearly,0,Card,5.6,TV,0
+S1295,28.1,Basic,10,6-month,1,E-wallet,2.4,Laptop,0
+S1296,27.6,Basic,6,6-month,1,Card,9.4,Phone,0
+S1297,40.0,Standard,16,Yearly,2,E-wallet,3.6,Phone,0
+S1298,17.3,Basic,6,6-month,1,Card,9.4,Phone,0
+S1299,28.1,Basic,19,Monthly,3,Bank transfer,7.6,Laptop,1
+S1300,37.4,Standard,27,Monthly,4,E-wallet,18.4,Phone,0
+S1301,38.8,Standard,21,Monthly,0,Card,3.4,Phone,1
+S1302,25.0,Basic,17,Yearly,4,Cash voucher,10.7,Laptop,0
+S1304,59.2,Premium,6,Monthly,1,E-wallet,4.7,Phone,1
+S1305,19.1,Basic,15,Yearly,2,Card,5.5,Tablet,0
+S1306,56.4,Premium,10,Monthly,1,E-wallet,17.7,Tablet,0
+S1308,32.6,Standard,4,6-month,2,E-wallet,5.9,Tablet,0
+S1310,23.1,Basic,21,Monthly,2,Card,5.9,TV,0
+S1311,20.2,Basic,10,6-month,0,E-wallet,6.7,Phone,0
+S1312,37.1,Standard,2,6-month,1,E-wallet,7.9,TV,0
+S1313,25.7,Basic,18,6-month,0,Bank transfer,1.1,Laptop,0
+S1315,20.6,Basic,5,Yearly,0,E-wallet,11.3,TV,0
+S1316,39.1,Standard,6,Monthly,1,E-wallet,3.3,Phone,1
+S1318,57.3,Premium,47,Monthly,4,Card,2.7,Phone,1
+S1319,26.7,Basic,17,Monthly,1,Card,1.8,Laptop,0
+S1320,29.2,Basic,9,Monthly,2,Card,1.4,TV,0
+S1321,35.7,Standard,13,Monthly,1,Card,10.0,Tablet,0
+S1322,38.6,Standard,8,Monthly,0,Card,6.2,TV,0
+S1323,35.0,Standard,23,6-month,0,E-wallet,8.2,Phone,0
+S1324,39.2,Standard,5,Monthly,2,Cash voucher,9.6,Laptop,1
+S1325,19.3,Basic,14,Monthly,3,Card,3.5,Phone,1
+S1326,41.5,Standard,10,Monthly,1,Bank transfer,3.5,Laptop,0
+S1327,22.3,Basic,21,Yearly,1,Cash voucher,4.6,TV,0
+S1328,22.0,Basic,6,Monthly,1,Card,9.6,Tablet,0
+S1329,20.9,Basic,13,Monthly,0,Card,14.4,Phone,0
+S1330,43.4,Standard,25,6-month,2,E-wallet,2.4,Phone,0
+S1331,26.3,Basic,18,Yearly,0,Card,6.0,TV,0
+S1333,25.1,Basic,17,Monthly,3,E-wallet,14.6,TV,0
+S1334,27.2,Basic,16,Monthly,0,Card,1.4,Phone,0
+S1335,38.0,Standard,10,Monthly,4,Card,7.3,TV,1
+S1336,24.0,Basic,11,6-month,2,E-wallet,10.6,TV,0
+S1337,38.9,Standard,24,6-month,2,E-wallet,9.0,TV,0
+S1338,25.0,Basic,32,Monthly,1,Bank transfer,1.7,Laptop,0
+S1339,36.9,Standard,18,Monthly,2,Cash voucher,4.9,TV,1
+S1340,22.2,Basic,13,Monthly,2,Card,4.2,Phone,1
+S1341,24.0,Basic,23,Monthly,0,Card,12.3,Phone,0
+S1343,44.9,Standard,7,Monthly,0,Card,1.8,Phone,1
+S1345,20.3,Basic,8,Monthly,1,Cash voucher,7.9,Tablet,0
+S1346,38.0,Standard,26,Yearly,0,Bank transfer,3.5,Tablet,0
+S1347,34.9,Standard,6,Monthly,3,Card,3.5,Laptop,1
+S1348,23.2,Basic,53,Monthly,1,Card,7.0,Phone,0
+S1349,28.7,Basic,14,Monthly,0,Cash voucher,1.2,Laptop,0
+S1350,22.3,Basic,12,6-month,0,Card,3.4,Tablet,0
+S1351,41.8,Standard,41,Monthly,3,Bank transfer,7.2,TV,0
+S1352,22.1,Basic,27,6-month,3,E-wallet,2.8,TV,0
+S1353,26.5,Basic,20,6-month,2,Card,1.0,Phone,0
+S1354,41.8,Standard,13,Yearly,0,Card,14.4,Laptop,0
+S1355,59.4,Premium,7,Monthly,2,Card,6.3,Phone,1
+S1356,26.4,Basic,29,Monthly,1,Card,1.7,Phone,0
+S1357,55.4,Premium,32,6-month,1,Cash voucher,8.3,Phone,0
+S1358,44.7,Standard,23,Monthly,1,Cash voucher,7.2,Laptop,0
+S1359,19.3,Basic,16,Monthly,2,E-wallet,14.7,Phone,0
+S1360,26.0,Basic,7,Yearly,1,Cash voucher,9.3,TV,0
+S1362,52.4,Premium,22,Monthly,1,Bank transfer,5.3,TV,0
+S1363,21.5,Basic,5,Yearly,1,E-wallet,1.0,TV,1
+S1364,41.6,Standard,15,Yearly,0,E-wallet,2.1,TV,0
+S1365,21.0,Basic,17,Yearly,0,Card,8.3,Laptop,0
+S1367,39.2,Standard,18,Yearly,2,E-wallet,5.4,Tablet,0
+S1369,37.2,Standard,13,6-month,1,Bank transfer,4.5,TV,1
+S1370,28.7,Basic,29,Yearly,0,Card,10.5,Laptop,0
+S1372,36.6,Standard,8,Monthly,1,Bank transfer,1.8,TV,0
+S1373,26.4,Basic,9,Yearly,1,Card,12.3,TV,0
+S1374,57.4,Premium,6,Monthly,1,E-wallet,2.6,Laptop,1
+S1375,21.6,Basic,21,Monthly,0,Card,8.0,TV,0
+S1377,52.2,Premium,17,6-month,3,Card,2.9,TV,0
+S1378,35.2,Standard,19,Yearly,1,E-wallet,4.8,Phone,0
+S1379,46.6,Standard,66,Monthly,1,E-wallet,2.2,Phone,0
+S1380,39.3,Standard,18,6-month,2,Card,6.5,TV,0
+S1382,26.7,Basic,18,6-month,0,Bank transfer,2.3,Tablet,0
+S1383,38.0,Standard,19,Yearly,1,E-wallet,6.4,Phone,0
+S1384,24.4,Basic,19,Monthly,1,Card,3.5,Phone,0
+S1385,37.7,Standard,14,Monthly,0,Card,2.9,TV,0
+S1386,29.7,Basic,21,Yearly,0,Cash voucher,12.7,Phone,0
+S1387,56.5,Premium,51,Monthly,0,Cash voucher,8.7,Phone,0
+S1388,25.1,Basic,13,Monthly,1,Cash voucher,7.6,TV,0
+S1389,40.0,Standard,3,Monthly,0,Bank transfer,14.7,Laptop,1
+S1390,42.3,Standard,21,6-month,2,Bank transfer,14.8,Phone,0
+S1391,24.2,Basic,5,6-month,0,Bank transfer,11.4,Phone,0
+S1392,37.8,Standard,36,Yearly,2,Card,3.6,TV,0
+S1393,20.4,Basic,26,Yearly,0,E-wallet,4.6,TV,0
+S1394,33.4,Standard,16,Monthly,1,Card,4.0,Phone,0
+S1395,27.2,Basic,14,Monthly,4,Card,3.5,Phone,1
+S1397,55.5,Premium,16,6-month,1,Cash voucher,8.3,Phone,0
+S1398,42.8,Standard,46,Monthly,3,Card,10.4,Laptop,0
+S1399,49.6,Premium,6,Monthly,1,Bank transfer,5.2,TV,0
+S1400,42.8,Standard,23,6-month,4,E-wallet,4.3,TV,0
+S1401,21.2,Basic,8,Yearly,3,Card,12.1,Phone,0
+S1404,55.1,Premium,12,Yearly,1,Cash voucher,4.6,Tablet,0
+S1405,53.2,Premium,23,Yearly,1,Bank transfer,7.1,TV,0
+S1407,20.2,Basic,41,Monthly,2,E-wallet,4.5,TV,0
+S1408,56.5,Premium,20,Yearly,3,Bank transfer,7.5,Tablet,0
+S1411,26.4,Basic,5,6-month,2,Cash voucher,4.3,TV,1
+S1412,41.8,Standard,35,Monthly,0,Cash voucher,4.1,Phone,0
+S1414,26.0,Basic,2,6-month,1,E-wallet,8.9,Phone,0
+S1415,50.2,Premium,29,Monthly,3,E-wallet,17.3,Phone,0
+S1416,27.5,Basic,22,6-month,2,Card,21.5,TV,0
+S1418,25.6,Basic,5,Yearly,1,Card,3.7,Tablet,0
+S1419,39.8,Standard,1,6-month,1,Card,1.9,Phone,1
+S1420,27.0,Basic,30,6-month,1,Card,2.7,Laptop,0
+S1421,25.6,Basic,26,Yearly,1,Bank transfer,8.2,Tablet,0
+S1422,40.0,Standard,10,Yearly,1,Bank transfer,1.1,TV,0
+S1423,56.4,Premium,8,Monthly,1,Cash voucher,7.1,TV,1
+S1424,54.3,Premium,5,Yearly,1,E-wallet,17.7,Laptop,0
+S1425,56.0,Premium,22,Monthly,0,E-wallet,12.4,Tablet,0
+S1426,22.4,Basic,30,Monthly,2,Card,7.0,Laptop,0
+S1427,24.1,Basic,28,Monthly,0,Cash voucher,11.7,TV,0
+S1428,41.2,Standard,22,Monthly,1,Card,11.6,Phone,0
+S1430,39.3,Standard,10,Monthly,2,Card,6.6,Phone,1
+S1432,54.9,Premium,36,Monthly,0,Card,13.5,Phone,0
+S1433,27.3,Basic,6,Monthly,0,Bank transfer,13.4,Phone,0
+S1436,20.0,Basic,11,Yearly,0,Bank transfer,2.8,Laptop,0
+S1437,41.7,Standard,13,Monthly,2,E-wallet,4.6,Laptop,1
+S1438,23.8,Basic,25,6-month,2,Cash voucher,6.9,Phone,0
+S1440,38.3,Standard,18,6-month,0,Card,1.6,Phone,0
+S1441,38.6,Standard,17,Monthly,2,Bank transfer,6.4,Laptop,0
+S1443,22.1,Basic,10,Yearly,0,Bank transfer,9.6,Phone,0
+S1444,52.3,Premium,12,6-month,0,Card,6.3,Tablet,1
+S1447,53.0,Premium,22,6-month,2,Card,8.6,TV,0
+S1450,37.7,Standard,5,Monthly,2,E-wallet,2.3,TV,0
+S1451,38.6,Standard,11,Monthly,2,Card,4.1,Phone,0
+S1452,17.9,Basic,22,Monthly,3,Cash voucher,3.7,Laptop,1
+S1454,26.8,Basic,22,Yearly,4,E-wallet,6.6,Phone,0
+S1456,29.0,Basic,17,Monthly,2,Card,12.8,Laptop,0
+S1457,36.4,Standard,19,Monthly,1,Card,9.8,Phone,0
+S1458,37.7,Standard,17,Monthly,1,Card,3.5,Laptop,0
+S1459,31.9,Basic,17,Monthly,3,Cash voucher,8.5,Laptop,0
+S1460,24.8,Basic,35,Monthly,1,Bank transfer,10.6,TV,0
+S1461,24.5,Basic,8,Monthly,4,E-wallet,3.4,TV,1
+S1462,25.2,Basic,6,Monthly,0,E-wallet,0.8,Laptop,0
+S1463,22.1,Basic,1,Monthly,2,E-wallet,5.8,TV,1
+S1464,24.2,Basic,14,Monthly,1,E-wallet,17.8,Phone,0
+S1466,35.6,Standard,9,6-month,3,Bank transfer,7.4,Phone,1
+S1467,50.5,Premium,7,6-month,2,E-wallet,8.3,Phone,0
+S1468,38.5,Standard,21,Monthly,2,Card,7.3,Phone,0
+S1469,56.0,Premium,7,Yearly,1,Cash voucher,8.7,Phone,0
+S1470,42.2,Standard,34,Monthly,1,E-wallet,8.8,TV,0
+S1471,26.9,Basic,18,Monthly,1,E-wallet,7.6,Phone,0
+S1472,51.1,Premium,10,Monthly,1,E-wallet,6.2,Phone,1
+S1473,38.2,Standard,31,6-month,6,E-wallet,4.8,TV,0
+S1474,42.9,Standard,9,Monthly,2,Card,3.1,Phone,1
+S1475,26.7,Basic,17,Yearly,1,Cash voucher,7.3,TV,0
+S1476,38.0,Standard,13,Monthly,2,Bank transfer,1.5,Laptop,1
+S1477,41.1,Standard,19,Monthly,1,E-wallet,8.8,Phone,0
+S1478,37.4,Standard,46,Yearly,2,E-wallet,4.1,Phone,0
+S1479,55.5,Premium,15,Yearly,1,Cash voucher,1.1,TV,0
+S1480,59.2,Premium,8,Yearly,2,E-wallet,3.1,Laptop,0
+S1481,33.3,Standard,11,Monthly,1,Cash voucher,6.5,TV,0
+S1482,30.7,Basic,40,Monthly,0,Card,3.7,Phone,0
+S1484,54.4,Premium,37,Monthly,3,E-wallet,8.8,Phone,1
+S1485,42.4,Standard,1,6-month,4,Card,5.5,Phone,1
+S1486,43.5,Standard,25,6-month,2,Bank transfer,6.8,TV,0
+S1487,27.2,Basic,16,Monthly,2,E-wallet,2.2,Phone,1
+S1488,39.3,Standard,7,Monthly,1,E-wallet,10.8,TV,0
+S1489,21.6,Basic,8,Yearly,0,Bank transfer,3.4,Phone,0
+S1490,30.1,Basic,15,Monthly,3,Cash voucher,5.5,Phone,1
+S1491,27.5,Basic,11,6-month,1,Card,21.3,TV,0
+S1495,56.4,Premium,32,Monthly,1,Bank transfer,20.3,Laptop,0
+S1498,20.7,Basic,11,6-month,5,Bank transfer,2.0,TV,0
+S1499,43.0,Standard,8,Monthly,3,Bank transfer,2.5,Phone,1
+S1500,24.3,Basic,7,Monthly,3,Card,14.8,TV,0
